@@ -1,0 +1,6002 @@
+[
+    {
+        "file_size": 1148,
+        "access_frequency": 112,
+        "client_count": 27,
+        "access_density": 0.281
+    },
+    {
+        "file_size": 4921,
+        "access_frequency": 58,
+        "client_count": 37,
+        "access_density": 0.264
+    },
+    {
+        "file_size": 3698,
+        "access_frequency": 79,
+        "client_count": 5,
+        "access_density": 0.278
+    },
+    {
+        "file_size": 4250,
+        "access_frequency": 29,
+        "client_count": 42,
+        "access_density": 0.102
+    },
+    {
+        "file_size": 2741,
+        "access_frequency": 35,
+        "client_count": 42,
+        "access_density": 0.851
+    },
+    {
+        "file_size": 4609,
+        "access_frequency": 106,
+        "client_count": 33,
+        "access_density": 0.576
+    },
+    {
+        "file_size": 1532,
+        "access_frequency": 6,
+        "client_count": 5,
+        "access_density": 0.19
+    },
+    {
+        "file_size": 960,
+        "access_frequency": 93,
+        "client_count": 18,
+        "access_density": 0.877
+    },
+    {
+        "file_size": 2169,
+        "access_frequency": 98,
+        "client_count": 24,
+        "access_density": 0.169
+    },
+    {
+        "file_size": 2004,
+        "access_frequency": 1,
+        "client_count": 42,
+        "access_density": 0.105
+    },
+    {
+        "file_size": 410,
+        "access_frequency": 2,
+        "client_count": 3,
+        "access_density": 0.814
+    },
+    {
+        "file_size": 4784,
+        "access_frequency": 6,
+        "client_count": 45,
+        "access_density": 0.364
+    },
+    {
+        "file_size": 2159,
+        "access_frequency": 125,
+        "client_count": 15,
+        "access_density": 0.831
+    },
+    {
+        "file_size": 2371,
+        "access_frequency": 144,
+        "client_count": 3,
+        "access_density": 0.293
+    },
+    {
+        "file_size": 2405,
+        "access_frequency": 104,
+        "client_count": 23,
+        "access_density": 0.139
+    },
+    {
+        "file_size": 2271,
+        "access_frequency": 1,
+        "client_count": 2,
+        "access_density": 0.534
+    },
+    {
+        "file_size": 4306,
+        "access_frequency": 151,
+        "client_count": 29,
+        "access_density": 0.774
+    },
+    {
+        "file_size": 1648,
+        "access_frequency": 95,
+        "client_count": 30,
+        "access_density": 0.552
+    },
+    {
+        "file_size": 1161,
+        "access_frequency": 38,
+        "client_count": 18,
+        "access_density": 0.187
+    },
+    {
+        "file_size": 761,
+        "access_frequency": 70,
+        "client_count": 37,
+        "access_density": 0.188
+    },
+    {
+        "file_size": 696,
+        "access_frequency": 33,
+        "client_count": 37,
+        "access_density": 0.984
+    },
+    {
+        "file_size": 3444,
+        "access_frequency": 63,
+        "client_count": 30,
+        "access_density": 0.526
+    },
+    {
+        "file_size": 3037,
+        "access_frequency": 115,
+        "client_count": 3,
+        "access_density": 0.294
+    },
+    {
+        "file_size": 1280,
+        "access_frequency": 176,
+        "client_count": 28,
+        "access_density": 0.542
+    },
+    {
+        "file_size": 420,
+        "access_frequency": 134,
+        "client_count": 23,
+        "access_density": 0.874
+    },
+    {
+        "file_size": 2467,
+        "access_frequency": 181,
+        "client_count": 31,
+        "access_density": 0.118
+    },
+    {
+        "file_size": 661,
+        "access_frequency": 66,
+        "client_count": 35,
+        "access_density": 0.161
+    },
+    {
+        "file_size": 2758,
+        "access_frequency": 163,
+        "client_count": 13,
+        "access_density": 0.57
+    },
+    {
+        "file_size": 842,
+        "access_frequency": 71,
+        "client_count": 47,
+        "access_density": 0.305
+    },
+    {
+        "file_size": 3702,
+        "access_frequency": 179,
+        "client_count": 34,
+        "access_density": 0.243
+    },
+    {
+        "file_size": 1671,
+        "access_frequency": 193,
+        "client_count": 43,
+        "access_density": 0.132
+    },
+    {
+        "file_size": 557,
+        "access_frequency": 126,
+        "client_count": 28,
+        "access_density": 0.558
+    },
+    {
+        "file_size": 4215,
+        "access_frequency": 65,
+        "client_count": 20,
+        "access_density": 0.702
+    },
+    {
+        "file_size": 1531,
+        "access_frequency": 68,
+        "client_count": 5,
+        "access_density": 0.25
+    },
+    {
+        "file_size": 4549,
+        "access_frequency": 63,
+        "client_count": 1,
+        "access_density": 0.683
+    },
+    {
+        "file_size": 474,
+        "access_frequency": 42,
+        "client_count": 36,
+        "access_density": 0.663
+    },
+    {
+        "file_size": 2440,
+        "access_frequency": 73,
+        "client_count": 6,
+        "access_density": 0.127
+    },
+    {
+        "file_size": 303,
+        "access_frequency": 176,
+        "client_count": 44,
+        "access_density": 0.18
+    },
+    {
+        "file_size": 1527,
+        "access_frequency": 175,
+        "client_count": 3,
+        "access_density": 0.168
+    },
+    {
+        "file_size": 3284,
+        "access_frequency": 1,
+        "client_count": 30,
+        "access_density": 0.591
+    },
+    {
+        "file_size": 4201,
+        "access_frequency": 110,
+        "client_count": 18,
+        "access_density": 0.833
+    },
+    {
+        "file_size": 3573,
+        "access_frequency": 19,
+        "client_count": 33,
+        "access_density": 0.21
+    },
+    {
+        "file_size": 1180,
+        "access_frequency": 45,
+        "client_count": 13,
+        "access_density": 0.27
+    },
+    {
+        "file_size": 196,
+        "access_frequency": 120,
+        "client_count": 23,
+        "access_density": 0.921
+    },
+    {
+        "file_size": 3148,
+        "access_frequency": 134,
+        "client_count": 24,
+        "access_density": 0.149
+    },
+    {
+        "file_size": 3251,
+        "access_frequency": 79,
+        "client_count": 25,
+        "access_density": 0.915
+    },
+    {
+        "file_size": 493,
+        "access_frequency": 105,
+        "client_count": 28,
+        "access_density": 0.262
+    },
+    {
+        "file_size": 1807,
+        "access_frequency": 106,
+        "client_count": 7,
+        "access_density": 0.505
+    },
+    {
+        "file_size": 3073,
+        "access_frequency": 25,
+        "client_count": 36,
+        "access_density": 0.688
+    },
+    {
+        "file_size": 4012,
+        "access_frequency": 114,
+        "client_count": 1,
+        "access_density": 0.596
+    },
+    {
+        "file_size": 2158,
+        "access_frequency": 113,
+        "client_count": 38,
+        "access_density": 0.112
+    },
+    {
+        "file_size": 3880,
+        "access_frequency": 116,
+        "client_count": 31,
+        "access_density": 0.515
+    },
+    {
+        "file_size": 4805,
+        "access_frequency": 11,
+        "client_count": 32,
+        "access_density": 0.996
+    },
+    {
+        "file_size": 4895,
+        "access_frequency": 85,
+        "client_count": 22,
+        "access_density": 0.73
+    },
+    {
+        "file_size": 2480,
+        "access_frequency": 61,
+        "client_count": 17,
+        "access_density": 0.74
+    },
+    {
+        "file_size": 4335,
+        "access_frequency": 169,
+        "client_count": 13,
+        "access_density": 0.984
+    },
+    {
+        "file_size": 1132,
+        "access_frequency": 174,
+        "client_count": 12,
+        "access_density": 0.865
+    },
+    {
+        "file_size": 4819,
+        "access_frequency": 61,
+        "client_count": 22,
+        "access_density": 0.98
+    },
+    {
+        "file_size": 3060,
+        "access_frequency": 12,
+        "client_count": 23,
+        "access_density": 0.745
+    },
+    {
+        "file_size": 1700,
+        "access_frequency": 196,
+        "client_count": 10,
+        "access_density": 0.934
+    },
+    {
+        "file_size": 4921,
+        "access_frequency": 36,
+        "client_count": 28,
+        "access_density": 0.403
+    },
+    {
+        "file_size": 1282,
+        "access_frequency": 1,
+        "client_count": 2,
+        "access_density": 0.809
+    },
+    {
+        "file_size": 4500,
+        "access_frequency": 80,
+        "client_count": 37,
+        "access_density": 0.4
+    },
+    {
+        "file_size": 4471,
+        "access_frequency": 169,
+        "client_count": 14,
+        "access_density": 0.526
+    },
+    {
+        "file_size": 1842,
+        "access_frequency": 200,
+        "client_count": 30,
+        "access_density": 0.103
+    },
+    {
+        "file_size": 189,
+        "access_frequency": 14,
+        "client_count": 8,
+        "access_density": 0.252
+    },
+    {
+        "file_size": 3114,
+        "access_frequency": 62,
+        "client_count": 46,
+        "access_density": 0.72
+    },
+    {
+        "file_size": 4768,
+        "access_frequency": 72,
+        "client_count": 48,
+        "access_density": 0.972
+    },
+    {
+        "file_size": 2072,
+        "access_frequency": 78,
+        "client_count": 34,
+        "access_density": 0.483
+    },
+    {
+        "file_size": 3930,
+        "access_frequency": 163,
+        "client_count": 2,
+        "access_density": 0.866
+    },
+    {
+        "file_size": 3123,
+        "access_frequency": 110,
+        "client_count": 32,
+        "access_density": 0.145
+    },
+    {
+        "file_size": 838,
+        "access_frequency": 124,
+        "client_count": 10,
+        "access_density": 0.94
+    },
+    {
+        "file_size": 4600,
+        "access_frequency": 35,
+        "client_count": 20,
+        "access_density": 0.642
+    },
+    {
+        "file_size": 131,
+        "access_frequency": 58,
+        "client_count": 5,
+        "access_density": 0.926
+    },
+    {
+        "file_size": 2479,
+        "access_frequency": 164,
+        "client_count": 28,
+        "access_density": 0.955
+    },
+    {
+        "file_size": 2346,
+        "access_frequency": 3,
+        "client_count": 37,
+        "access_density": 0.474
+    },
+    {
+        "file_size": 4133,
+        "access_frequency": 169,
+        "client_count": 18,
+        "access_density": 0.991
+    },
+    {
+        "file_size": 4520,
+        "access_frequency": 106,
+        "client_count": 30,
+        "access_density": 0.617
+    },
+    {
+        "file_size": 305,
+        "access_frequency": 78,
+        "client_count": 1,
+        "access_density": 0.933
+    },
+    {
+        "file_size": 2434,
+        "access_frequency": 169,
+        "client_count": 45,
+        "access_density": 0.565
+    },
+    {
+        "file_size": 4725,
+        "access_frequency": 174,
+        "client_count": 19,
+        "access_density": 0.204
+    },
+    {
+        "file_size": 4737,
+        "access_frequency": 114,
+        "client_count": 20,
+        "access_density": 0.179
+    },
+    {
+        "file_size": 1458,
+        "access_frequency": 3,
+        "client_count": 31,
+        "access_density": 0.267
+    },
+    {
+        "file_size": 1086,
+        "access_frequency": 186,
+        "client_count": 38,
+        "access_density": 0.933
+    },
+    {
+        "file_size": 1246,
+        "access_frequency": 172,
+        "client_count": 35,
+        "access_density": 0.435
+    },
+    {
+        "file_size": 401,
+        "access_frequency": 195,
+        "client_count": 7,
+        "access_density": 0.131
+    },
+    {
+        "file_size": 3038,
+        "access_frequency": 39,
+        "client_count": 23,
+        "access_density": 0.934
+    },
+    {
+        "file_size": 3462,
+        "access_frequency": 91,
+        "client_count": 22,
+        "access_density": 0.237
+    },
+    {
+        "file_size": 3696,
+        "access_frequency": 9,
+        "client_count": 1,
+        "access_density": 0.702
+    },
+    {
+        "file_size": 2241,
+        "access_frequency": 69,
+        "client_count": 14,
+        "access_density": 0.391
+    },
+    {
+        "file_size": 4859,
+        "access_frequency": 179,
+        "client_count": 44,
+        "access_density": 0.446
+    },
+    {
+        "file_size": 3685,
+        "access_frequency": 150,
+        "client_count": 18,
+        "access_density": 0.162
+    },
+    {
+        "file_size": 2087,
+        "access_frequency": 191,
+        "client_count": 3,
+        "access_density": 0.288
+    },
+    {
+        "file_size": 3115,
+        "access_frequency": 36,
+        "client_count": 13,
+        "access_density": 0.363
+    },
+    {
+        "file_size": 485,
+        "access_frequency": 139,
+        "client_count": 4,
+        "access_density": 0.749
+    },
+    {
+        "file_size": 4018,
+        "access_frequency": 90,
+        "client_count": 13,
+        "access_density": 0.799
+    },
+    {
+        "file_size": 3188,
+        "access_frequency": 1,
+        "client_count": 27,
+        "access_density": 0.4
+    },
+    {
+        "file_size": 3124,
+        "access_frequency": 69,
+        "client_count": 14,
+        "access_density": 0.53
+    },
+    {
+        "file_size": 2948,
+        "access_frequency": 82,
+        "client_count": 36,
+        "access_density": 0.888
+    },
+    {
+        "file_size": 2740,
+        "access_frequency": 48,
+        "client_count": 12,
+        "access_density": 0.926
+    },
+    {
+        "file_size": 1197,
+        "access_frequency": 128,
+        "client_count": 13,
+        "access_density": 0.796
+    },
+    {
+        "file_size": 2132,
+        "access_frequency": 25,
+        "client_count": 41,
+        "access_density": 0.707
+    },
+    {
+        "file_size": 3656,
+        "access_frequency": 94,
+        "client_count": 11,
+        "access_density": 0.782
+    },
+    {
+        "file_size": 1861,
+        "access_frequency": 157,
+        "client_count": 6,
+        "access_density": 0.796
+    },
+    {
+        "file_size": 1739,
+        "access_frequency": 157,
+        "client_count": 20,
+        "access_density": 0.378
+    },
+    {
+        "file_size": 3544,
+        "access_frequency": 188,
+        "client_count": 39,
+        "access_density": 0.413
+    },
+    {
+        "file_size": 4446,
+        "access_frequency": 133,
+        "client_count": 10,
+        "access_density": 0.802
+    },
+    {
+        "file_size": 4523,
+        "access_frequency": 125,
+        "client_count": 2,
+        "access_density": 0.477
+    },
+    {
+        "file_size": 4729,
+        "access_frequency": 72,
+        "client_count": 32,
+        "access_density": 0.713
+    },
+    {
+        "file_size": 2022,
+        "access_frequency": 82,
+        "client_count": 24,
+        "access_density": 0.203
+    },
+    {
+        "file_size": 2348,
+        "access_frequency": 123,
+        "client_count": 29,
+        "access_density": 0.798
+    },
+    {
+        "file_size": 842,
+        "access_frequency": 33,
+        "client_count": 25,
+        "access_density": 0.54
+    },
+    {
+        "file_size": 4425,
+        "access_frequency": 149,
+        "client_count": 29,
+        "access_density": 0.247
+    },
+    {
+        "file_size": 697,
+        "access_frequency": 146,
+        "client_count": 49,
+        "access_density": 0.804
+    },
+    {
+        "file_size": 2410,
+        "access_frequency": 55,
+        "client_count": 6,
+        "access_density": 0.571
+    },
+    {
+        "file_size": 4115,
+        "access_frequency": 15,
+        "client_count": 33,
+        "access_density": 0.796
+    },
+    {
+        "file_size": 3677,
+        "access_frequency": 105,
+        "client_count": 18,
+        "access_density": 0.116
+    },
+    {
+        "file_size": 1982,
+        "access_frequency": 179,
+        "client_count": 28,
+        "access_density": 0.179
+    },
+    {
+        "file_size": 3856,
+        "access_frequency": 34,
+        "client_count": 41,
+        "access_density": 0.748
+    },
+    {
+        "file_size": 3553,
+        "access_frequency": 133,
+        "client_count": 50,
+        "access_density": 0.367
+    },
+    {
+        "file_size": 190,
+        "access_frequency": 147,
+        "client_count": 19,
+        "access_density": 0.22
+    },
+    {
+        "file_size": 2894,
+        "access_frequency": 179,
+        "client_count": 12,
+        "access_density": 0.923
+    },
+    {
+        "file_size": 3843,
+        "access_frequency": 127,
+        "client_count": 37,
+        "access_density": 0.71
+    },
+    {
+        "file_size": 2089,
+        "access_frequency": 108,
+        "client_count": 39,
+        "access_density": 0.215
+    },
+    {
+        "file_size": 535,
+        "access_frequency": 140,
+        "client_count": 6,
+        "access_density": 0.339
+    },
+    {
+        "file_size": 4626,
+        "access_frequency": 198,
+        "client_count": 16,
+        "access_density": 0.496
+    },
+    {
+        "file_size": 918,
+        "access_frequency": 183,
+        "client_count": 13,
+        "access_density": 0.898
+    },
+    {
+        "file_size": 2738,
+        "access_frequency": 57,
+        "client_count": 38,
+        "access_density": 0.452
+    },
+    {
+        "file_size": 1907,
+        "access_frequency": 63,
+        "client_count": 50,
+        "access_density": 0.487
+    },
+    {
+        "file_size": 1361,
+        "access_frequency": 166,
+        "client_count": 18,
+        "access_density": 0.102
+    },
+    {
+        "file_size": 1881,
+        "access_frequency": 176,
+        "client_count": 29,
+        "access_density": 0.685
+    },
+    {
+        "file_size": 4396,
+        "access_frequency": 141,
+        "client_count": 26,
+        "access_density": 0.104
+    },
+    {
+        "file_size": 3998,
+        "access_frequency": 161,
+        "client_count": 37,
+        "access_density": 0.164
+    },
+    {
+        "file_size": 3661,
+        "access_frequency": 91,
+        "client_count": 5,
+        "access_density": 0.708
+    },
+    {
+        "file_size": 1189,
+        "access_frequency": 98,
+        "client_count": 20,
+        "access_density": 0.481
+    },
+    {
+        "file_size": 4500,
+        "access_frequency": 29,
+        "client_count": 20,
+        "access_density": 0.951
+    },
+    {
+        "file_size": 2534,
+        "access_frequency": 45,
+        "client_count": 26,
+        "access_density": 0.185
+    },
+    {
+        "file_size": 3344,
+        "access_frequency": 22,
+        "client_count": 40,
+        "access_density": 0.26
+    },
+    {
+        "file_size": 4139,
+        "access_frequency": 50,
+        "client_count": 18,
+        "access_density": 0.491
+    },
+    {
+        "file_size": 3471,
+        "access_frequency": 59,
+        "client_count": 22,
+        "access_density": 0.679
+    },
+    {
+        "file_size": 3516,
+        "access_frequency": 96,
+        "client_count": 2,
+        "access_density": 0.317
+    },
+    {
+        "file_size": 232,
+        "access_frequency": 40,
+        "client_count": 39,
+        "access_density": 0.586
+    },
+    {
+        "file_size": 1375,
+        "access_frequency": 182,
+        "client_count": 3,
+        "access_density": 0.468
+    },
+    {
+        "file_size": 511,
+        "access_frequency": 63,
+        "client_count": 30,
+        "access_density": 0.314
+    },
+    {
+        "file_size": 888,
+        "access_frequency": 16,
+        "client_count": 28,
+        "access_density": 0.624
+    },
+    {
+        "file_size": 1515,
+        "access_frequency": 149,
+        "client_count": 9,
+        "access_density": 0.783
+    },
+    {
+        "file_size": 2247,
+        "access_frequency": 184,
+        "client_count": 9,
+        "access_density": 0.621
+    },
+    {
+        "file_size": 666,
+        "access_frequency": 79,
+        "client_count": 18,
+        "access_density": 0.818
+    },
+    {
+        "file_size": 3183,
+        "access_frequency": 108,
+        "client_count": 5,
+        "access_density": 0.501
+    },
+    {
+        "file_size": 2363,
+        "access_frequency": 121,
+        "client_count": 36,
+        "access_density": 0.237
+    },
+    {
+        "file_size": 1238,
+        "access_frequency": 198,
+        "client_count": 30,
+        "access_density": 0.441
+    },
+    {
+        "file_size": 908,
+        "access_frequency": 51,
+        "client_count": 9,
+        "access_density": 0.475
+    },
+    {
+        "file_size": 3953,
+        "access_frequency": 22,
+        "client_count": 16,
+        "access_density": 0.436
+    },
+    {
+        "file_size": 1118,
+        "access_frequency": 149,
+        "client_count": 25,
+        "access_density": 0.172
+    },
+    {
+        "file_size": 796,
+        "access_frequency": 113,
+        "client_count": 15,
+        "access_density": 0.747
+    },
+    {
+        "file_size": 966,
+        "access_frequency": 46,
+        "client_count": 37,
+        "access_density": 0.921
+    },
+    {
+        "file_size": 220,
+        "access_frequency": 35,
+        "client_count": 6,
+        "access_density": 0.729
+    },
+    {
+        "file_size": 1660,
+        "access_frequency": 23,
+        "client_count": 44,
+        "access_density": 0.12
+    },
+    {
+        "file_size": 3993,
+        "access_frequency": 21,
+        "client_count": 14,
+        "access_density": 0.103
+    },
+    {
+        "file_size": 2822,
+        "access_frequency": 177,
+        "client_count": 3,
+        "access_density": 0.303
+    },
+    {
+        "file_size": 4526,
+        "access_frequency": 194,
+        "client_count": 6,
+        "access_density": 0.601
+    },
+    {
+        "file_size": 3919,
+        "access_frequency": 191,
+        "client_count": 8,
+        "access_density": 0.386
+    },
+    {
+        "file_size": 1552,
+        "access_frequency": 145,
+        "client_count": 29,
+        "access_density": 0.721
+    },
+    {
+        "file_size": 3633,
+        "access_frequency": 3,
+        "client_count": 16,
+        "access_density": 0.601
+    },
+    {
+        "file_size": 1218,
+        "access_frequency": 178,
+        "client_count": 36,
+        "access_density": 0.753
+    },
+    {
+        "file_size": 2455,
+        "access_frequency": 8,
+        "client_count": 25,
+        "access_density": 0.861
+    },
+    {
+        "file_size": 3722,
+        "access_frequency": 141,
+        "client_count": 25,
+        "access_density": 0.391
+    },
+    {
+        "file_size": 4672,
+        "access_frequency": 24,
+        "client_count": 18,
+        "access_density": 0.314
+    },
+    {
+        "file_size": 1853,
+        "access_frequency": 65,
+        "client_count": 22,
+        "access_density": 0.346
+    },
+    {
+        "file_size": 1679,
+        "access_frequency": 144,
+        "client_count": 21,
+        "access_density": 0.568
+    },
+    {
+        "file_size": 348,
+        "access_frequency": 93,
+        "client_count": 36,
+        "access_density": 0.42
+    },
+    {
+        "file_size": 2393,
+        "access_frequency": 108,
+        "client_count": 10,
+        "access_density": 0.823
+    },
+    {
+        "file_size": 3360,
+        "access_frequency": 74,
+        "client_count": 5,
+        "access_density": 0.976
+    },
+    {
+        "file_size": 3730,
+        "access_frequency": 8,
+        "client_count": 8,
+        "access_density": 0.997
+    },
+    {
+        "file_size": 919,
+        "access_frequency": 115,
+        "client_count": 33,
+        "access_density": 0.923
+    },
+    {
+        "file_size": 1161,
+        "access_frequency": 120,
+        "client_count": 33,
+        "access_density": 0.378
+    },
+    {
+        "file_size": 2032,
+        "access_frequency": 119,
+        "client_count": 6,
+        "access_density": 0.467
+    },
+    {
+        "file_size": 2412,
+        "access_frequency": 16,
+        "client_count": 33,
+        "access_density": 0.387
+    },
+    {
+        "file_size": 613,
+        "access_frequency": 186,
+        "client_count": 21,
+        "access_density": 0.482
+    },
+    {
+        "file_size": 2757,
+        "access_frequency": 136,
+        "client_count": 7,
+        "access_density": 0.158
+    },
+    {
+        "file_size": 4511,
+        "access_frequency": 1,
+        "client_count": 29,
+        "access_density": 0.66
+    },
+    {
+        "file_size": 1931,
+        "access_frequency": 172,
+        "client_count": 19,
+        "access_density": 0.876
+    },
+    {
+        "file_size": 4529,
+        "access_frequency": 25,
+        "client_count": 18,
+        "access_density": 0.149
+    },
+    {
+        "file_size": 4514,
+        "access_frequency": 16,
+        "client_count": 34,
+        "access_density": 0.871
+    },
+    {
+        "file_size": 203,
+        "access_frequency": 183,
+        "client_count": 42,
+        "access_density": 0.144
+    },
+    {
+        "file_size": 3030,
+        "access_frequency": 14,
+        "client_count": 12,
+        "access_density": 0.755
+    },
+    {
+        "file_size": 3126,
+        "access_frequency": 148,
+        "client_count": 43,
+        "access_density": 0.479
+    },
+    {
+        "file_size": 767,
+        "access_frequency": 101,
+        "client_count": 23,
+        "access_density": 0.675
+    },
+    {
+        "file_size": 1062,
+        "access_frequency": 74,
+        "client_count": 5,
+        "access_density": 0.619
+    },
+    {
+        "file_size": 1843,
+        "access_frequency": 81,
+        "client_count": 43,
+        "access_density": 0.252
+    },
+    {
+        "file_size": 1411,
+        "access_frequency": 32,
+        "client_count": 36,
+        "access_density": 0.836
+    },
+    {
+        "file_size": 3057,
+        "access_frequency": 133,
+        "client_count": 5,
+        "access_density": 0.319
+    },
+    {
+        "file_size": 2450,
+        "access_frequency": 165,
+        "client_count": 36,
+        "access_density": 0.354
+    },
+    {
+        "file_size": 546,
+        "access_frequency": 161,
+        "client_count": 22,
+        "access_density": 0.128
+    },
+    {
+        "file_size": 4643,
+        "access_frequency": 108,
+        "client_count": 7,
+        "access_density": 0.115
+    },
+    {
+        "file_size": 2451,
+        "access_frequency": 78,
+        "client_count": 6,
+        "access_density": 0.182
+    },
+    {
+        "file_size": 2993,
+        "access_frequency": 158,
+        "client_count": 35,
+        "access_density": 0.141
+    },
+    {
+        "file_size": 893,
+        "access_frequency": 6,
+        "client_count": 26,
+        "access_density": 0.168
+    },
+    {
+        "file_size": 1443,
+        "access_frequency": 43,
+        "client_count": 26,
+        "access_density": 0.319
+    },
+    {
+        "file_size": 3732,
+        "access_frequency": 123,
+        "client_count": 7,
+        "access_density": 0.82
+    },
+    {
+        "file_size": 3051,
+        "access_frequency": 72,
+        "client_count": 40,
+        "access_density": 0.497
+    },
+    {
+        "file_size": 367,
+        "access_frequency": 107,
+        "client_count": 48,
+        "access_density": 0.892
+    },
+    {
+        "file_size": 431,
+        "access_frequency": 199,
+        "client_count": 21,
+        "access_density": 0.262
+    },
+    {
+        "file_size": 2163,
+        "access_frequency": 44,
+        "client_count": 46,
+        "access_density": 0.333
+    },
+    {
+        "file_size": 3797,
+        "access_frequency": 5,
+        "client_count": 38,
+        "access_density": 0.671
+    },
+    {
+        "file_size": 1367,
+        "access_frequency": 12,
+        "client_count": 33,
+        "access_density": 0.292
+    },
+    {
+        "file_size": 2296,
+        "access_frequency": 124,
+        "client_count": 28,
+        "access_density": 0.542
+    },
+    {
+        "file_size": 157,
+        "access_frequency": 101,
+        "client_count": 9,
+        "access_density": 0.995
+    },
+    {
+        "file_size": 4958,
+        "access_frequency": 56,
+        "client_count": 27,
+        "access_density": 0.744
+    },
+    {
+        "file_size": 4297,
+        "access_frequency": 49,
+        "client_count": 27,
+        "access_density": 0.638
+    },
+    {
+        "file_size": 4239,
+        "access_frequency": 113,
+        "client_count": 28,
+        "access_density": 0.68
+    },
+    {
+        "file_size": 2824,
+        "access_frequency": 100,
+        "client_count": 32,
+        "access_density": 0.896
+    },
+    {
+        "file_size": 243,
+        "access_frequency": 171,
+        "client_count": 42,
+        "access_density": 0.863
+    },
+    {
+        "file_size": 534,
+        "access_frequency": 197,
+        "client_count": 33,
+        "access_density": 0.787
+    },
+    {
+        "file_size": 3727,
+        "access_frequency": 122,
+        "client_count": 14,
+        "access_density": 0.253
+    },
+    {
+        "file_size": 260,
+        "access_frequency": 188,
+        "client_count": 13,
+        "access_density": 0.571
+    },
+    {
+        "file_size": 3511,
+        "access_frequency": 36,
+        "client_count": 39,
+        "access_density": 0.143
+    },
+    {
+        "file_size": 3947,
+        "access_frequency": 149,
+        "client_count": 3,
+        "access_density": 0.159
+    },
+    {
+        "file_size": 3577,
+        "access_frequency": 25,
+        "client_count": 5,
+        "access_density": 0.499
+    },
+    {
+        "file_size": 4288,
+        "access_frequency": 169,
+        "client_count": 33,
+        "access_density": 0.504
+    },
+    {
+        "file_size": 3768,
+        "access_frequency": 106,
+        "client_count": 25,
+        "access_density": 0.704
+    },
+    {
+        "file_size": 2151,
+        "access_frequency": 161,
+        "client_count": 2,
+        "access_density": 0.941
+    },
+    {
+        "file_size": 1789,
+        "access_frequency": 164,
+        "client_count": 15,
+        "access_density": 0.237
+    },
+    {
+        "file_size": 1555,
+        "access_frequency": 129,
+        "client_count": 28,
+        "access_density": 0.194
+    },
+    {
+        "file_size": 655,
+        "access_frequency": 169,
+        "client_count": 26,
+        "access_density": 0.795
+    },
+    {
+        "file_size": 1614,
+        "access_frequency": 20,
+        "client_count": 7,
+        "access_density": 0.395
+    },
+    {
+        "file_size": 361,
+        "access_frequency": 152,
+        "client_count": 49,
+        "access_density": 0.439
+    },
+    {
+        "file_size": 580,
+        "access_frequency": 87,
+        "client_count": 31,
+        "access_density": 0.972
+    },
+    {
+        "file_size": 1025,
+        "access_frequency": 76,
+        "client_count": 35,
+        "access_density": 0.714
+    },
+    {
+        "file_size": 2909,
+        "access_frequency": 121,
+        "client_count": 2,
+        "access_density": 0.807
+    },
+    {
+        "file_size": 3576,
+        "access_frequency": 17,
+        "client_count": 5,
+        "access_density": 0.134
+    },
+    {
+        "file_size": 1974,
+        "access_frequency": 181,
+        "client_count": 1,
+        "access_density": 0.334
+    },
+    {
+        "file_size": 877,
+        "access_frequency": 55,
+        "client_count": 9,
+        "access_density": 0.567
+    },
+    {
+        "file_size": 2357,
+        "access_frequency": 67,
+        "client_count": 23,
+        "access_density": 0.276
+    },
+    {
+        "file_size": 886,
+        "access_frequency": 133,
+        "client_count": 1,
+        "access_density": 0.651
+    },
+    {
+        "file_size": 1547,
+        "access_frequency": 66,
+        "client_count": 28,
+        "access_density": 0.71
+    },
+    {
+        "file_size": 3567,
+        "access_frequency": 198,
+        "client_count": 49,
+        "access_density": 0.215
+    },
+    {
+        "file_size": 301,
+        "access_frequency": 182,
+        "client_count": 39,
+        "access_density": 0.824
+    },
+    {
+        "file_size": 2428,
+        "access_frequency": 15,
+        "client_count": 33,
+        "access_density": 0.806
+    },
+    {
+        "file_size": 686,
+        "access_frequency": 81,
+        "client_count": 9,
+        "access_density": 0.104
+    },
+    {
+        "file_size": 1196,
+        "access_frequency": 44,
+        "client_count": 30,
+        "access_density": 0.177
+    },
+    {
+        "file_size": 2488,
+        "access_frequency": 31,
+        "client_count": 27,
+        "access_density": 0.745
+    },
+    {
+        "file_size": 3782,
+        "access_frequency": 148,
+        "client_count": 34,
+        "access_density": 0.843
+    },
+    {
+        "file_size": 2637,
+        "access_frequency": 157,
+        "client_count": 3,
+        "access_density": 0.367
+    },
+    {
+        "file_size": 1861,
+        "access_frequency": 114,
+        "client_count": 45,
+        "access_density": 0.843
+    },
+    {
+        "file_size": 815,
+        "access_frequency": 42,
+        "client_count": 8,
+        "access_density": 0.297
+    },
+    {
+        "file_size": 1232,
+        "access_frequency": 134,
+        "client_count": 3,
+        "access_density": 0.472
+    },
+    {
+        "file_size": 1654,
+        "access_frequency": 108,
+        "client_count": 15,
+        "access_density": 0.745
+    },
+    {
+        "file_size": 4063,
+        "access_frequency": 122,
+        "client_count": 43,
+        "access_density": 0.317
+    },
+    {
+        "file_size": 194,
+        "access_frequency": 105,
+        "client_count": 41,
+        "access_density": 0.484
+    },
+    {
+        "file_size": 2693,
+        "access_frequency": 7,
+        "client_count": 39,
+        "access_density": 0.13
+    },
+    {
+        "file_size": 409,
+        "access_frequency": 188,
+        "client_count": 41,
+        "access_density": 0.522
+    },
+    {
+        "file_size": 2092,
+        "access_frequency": 52,
+        "client_count": 30,
+        "access_density": 0.701
+    },
+    {
+        "file_size": 1015,
+        "access_frequency": 159,
+        "client_count": 18,
+        "access_density": 0.976
+    },
+    {
+        "file_size": 1499,
+        "access_frequency": 189,
+        "client_count": 24,
+        "access_density": 0.996
+    },
+    {
+        "file_size": 815,
+        "access_frequency": 187,
+        "client_count": 44,
+        "access_density": 0.504
+    },
+    {
+        "file_size": 2120,
+        "access_frequency": 140,
+        "client_count": 42,
+        "access_density": 0.482
+    },
+    {
+        "file_size": 3420,
+        "access_frequency": 100,
+        "client_count": 20,
+        "access_density": 0.256
+    },
+    {
+        "file_size": 315,
+        "access_frequency": 60,
+        "client_count": 4,
+        "access_density": 0.784
+    },
+    {
+        "file_size": 1473,
+        "access_frequency": 155,
+        "client_count": 15,
+        "access_density": 0.571
+    },
+    {
+        "file_size": 837,
+        "access_frequency": 69,
+        "client_count": 31,
+        "access_density": 0.4
+    },
+    {
+        "file_size": 1896,
+        "access_frequency": 3,
+        "client_count": 21,
+        "access_density": 0.795
+    },
+    {
+        "file_size": 4347,
+        "access_frequency": 194,
+        "client_count": 15,
+        "access_density": 0.212
+    },
+    {
+        "file_size": 2605,
+        "access_frequency": 200,
+        "client_count": 40,
+        "access_density": 0.106
+    },
+    {
+        "file_size": 1266,
+        "access_frequency": 22,
+        "client_count": 14,
+        "access_density": 0.16
+    },
+    {
+        "file_size": 1471,
+        "access_frequency": 64,
+        "client_count": 35,
+        "access_density": 0.773
+    },
+    {
+        "file_size": 1990,
+        "access_frequency": 11,
+        "client_count": 30,
+        "access_density": 0.647
+    },
+    {
+        "file_size": 1423,
+        "access_frequency": 159,
+        "client_count": 49,
+        "access_density": 0.101
+    },
+    {
+        "file_size": 2248,
+        "access_frequency": 72,
+        "client_count": 17,
+        "access_density": 0.779
+    },
+    {
+        "file_size": 2389,
+        "access_frequency": 87,
+        "client_count": 46,
+        "access_density": 0.905
+    },
+    {
+        "file_size": 3615,
+        "access_frequency": 176,
+        "client_count": 39,
+        "access_density": 0.659
+    },
+    {
+        "file_size": 4394,
+        "access_frequency": 44,
+        "client_count": 48,
+        "access_density": 0.6
+    },
+    {
+        "file_size": 920,
+        "access_frequency": 80,
+        "client_count": 34,
+        "access_density": 0.165
+    },
+    {
+        "file_size": 4882,
+        "access_frequency": 111,
+        "client_count": 2,
+        "access_density": 0.397
+    },
+    {
+        "file_size": 2569,
+        "access_frequency": 162,
+        "client_count": 9,
+        "access_density": 0.281
+    },
+    {
+        "file_size": 2063,
+        "access_frequency": 174,
+        "client_count": 11,
+        "access_density": 0.939
+    },
+    {
+        "file_size": 4213,
+        "access_frequency": 167,
+        "client_count": 40,
+        "access_density": 0.932
+    },
+    {
+        "file_size": 2853,
+        "access_frequency": 110,
+        "client_count": 4,
+        "access_density": 0.921
+    },
+    {
+        "file_size": 1237,
+        "access_frequency": 77,
+        "client_count": 35,
+        "access_density": 0.261
+    },
+    {
+        "file_size": 4592,
+        "access_frequency": 94,
+        "client_count": 34,
+        "access_density": 0.121
+    },
+    {
+        "file_size": 1455,
+        "access_frequency": 71,
+        "client_count": 15,
+        "access_density": 0.877
+    },
+    {
+        "file_size": 4926,
+        "access_frequency": 175,
+        "client_count": 26,
+        "access_density": 0.865
+    },
+    {
+        "file_size": 3542,
+        "access_frequency": 140,
+        "client_count": 15,
+        "access_density": 0.805
+    },
+    {
+        "file_size": 1915,
+        "access_frequency": 57,
+        "client_count": 26,
+        "access_density": 0.579
+    },
+    {
+        "file_size": 727,
+        "access_frequency": 108,
+        "client_count": 32,
+        "access_density": 0.84
+    },
+    {
+        "file_size": 2756,
+        "access_frequency": 109,
+        "client_count": 33,
+        "access_density": 0.282
+    },
+    {
+        "file_size": 187,
+        "access_frequency": 193,
+        "client_count": 18,
+        "access_density": 0.219
+    },
+    {
+        "file_size": 374,
+        "access_frequency": 175,
+        "client_count": 10,
+        "access_density": 0.218
+    },
+    {
+        "file_size": 1883,
+        "access_frequency": 133,
+        "client_count": 29,
+        "access_density": 0.276
+    },
+    {
+        "file_size": 1583,
+        "access_frequency": 56,
+        "client_count": 22,
+        "access_density": 0.688
+    },
+    {
+        "file_size": 1456,
+        "access_frequency": 64,
+        "client_count": 47,
+        "access_density": 0.404
+    },
+    {
+        "file_size": 811,
+        "access_frequency": 28,
+        "client_count": 34,
+        "access_density": 0.832
+    },
+    {
+        "file_size": 4266,
+        "access_frequency": 99,
+        "client_count": 19,
+        "access_density": 0.599
+    },
+    {
+        "file_size": 2856,
+        "access_frequency": 60,
+        "client_count": 16,
+        "access_density": 0.575
+    },
+    {
+        "file_size": 765,
+        "access_frequency": 3,
+        "client_count": 29,
+        "access_density": 0.685
+    },
+    {
+        "file_size": 4840,
+        "access_frequency": 32,
+        "client_count": 47,
+        "access_density": 0.434
+    },
+    {
+        "file_size": 3213,
+        "access_frequency": 112,
+        "client_count": 15,
+        "access_density": 0.942
+    },
+    {
+        "file_size": 154,
+        "access_frequency": 3,
+        "client_count": 4,
+        "access_density": 0.789
+    },
+    {
+        "file_size": 4586,
+        "access_frequency": 184,
+        "client_count": 4,
+        "access_density": 0.13
+    },
+    {
+        "file_size": 262,
+        "access_frequency": 177,
+        "client_count": 14,
+        "access_density": 0.436
+    },
+    {
+        "file_size": 709,
+        "access_frequency": 172,
+        "client_count": 6,
+        "access_density": 0.63
+    },
+    {
+        "file_size": 2737,
+        "access_frequency": 50,
+        "client_count": 38,
+        "access_density": 0.285
+    },
+    {
+        "file_size": 4302,
+        "access_frequency": 20,
+        "client_count": 17,
+        "access_density": 0.837
+    },
+    {
+        "file_size": 3271,
+        "access_frequency": 61,
+        "client_count": 17,
+        "access_density": 0.896
+    },
+    {
+        "file_size": 4351,
+        "access_frequency": 191,
+        "client_count": 4,
+        "access_density": 0.945
+    },
+    {
+        "file_size": 2473,
+        "access_frequency": 97,
+        "client_count": 46,
+        "access_density": 0.156
+    },
+    {
+        "file_size": 2784,
+        "access_frequency": 14,
+        "client_count": 42,
+        "access_density": 0.821
+    },
+    {
+        "file_size": 792,
+        "access_frequency": 101,
+        "client_count": 11,
+        "access_density": 0.357
+    },
+    {
+        "file_size": 2047,
+        "access_frequency": 45,
+        "client_count": 49,
+        "access_density": 0.784
+    },
+    {
+        "file_size": 4971,
+        "access_frequency": 7,
+        "client_count": 29,
+        "access_density": 0.823
+    },
+    {
+        "file_size": 1220,
+        "access_frequency": 39,
+        "client_count": 4,
+        "access_density": 0.309
+    },
+    {
+        "file_size": 4927,
+        "access_frequency": 179,
+        "client_count": 31,
+        "access_density": 0.277
+    },
+    {
+        "file_size": 2186,
+        "access_frequency": 180,
+        "client_count": 3,
+        "access_density": 0.113
+    },
+    {
+        "file_size": 1138,
+        "access_frequency": 69,
+        "client_count": 45,
+        "access_density": 0.359
+    },
+    {
+        "file_size": 848,
+        "access_frequency": 129,
+        "client_count": 39,
+        "access_density": 0.819
+    },
+    {
+        "file_size": 4045,
+        "access_frequency": 145,
+        "client_count": 21,
+        "access_density": 0.105
+    },
+    {
+        "file_size": 1781,
+        "access_frequency": 24,
+        "client_count": 28,
+        "access_density": 0.551
+    },
+    {
+        "file_size": 3883,
+        "access_frequency": 2,
+        "client_count": 25,
+        "access_density": 0.282
+    },
+    {
+        "file_size": 4203,
+        "access_frequency": 26,
+        "client_count": 1,
+        "access_density": 0.37
+    },
+    {
+        "file_size": 2206,
+        "access_frequency": 160,
+        "client_count": 12,
+        "access_density": 0.686
+    },
+    {
+        "file_size": 3561,
+        "access_frequency": 129,
+        "client_count": 9,
+        "access_density": 0.884
+    },
+    {
+        "file_size": 4364,
+        "access_frequency": 52,
+        "client_count": 17,
+        "access_density": 0.317
+    },
+    {
+        "file_size": 2534,
+        "access_frequency": 174,
+        "client_count": 42,
+        "access_density": 0.19
+    },
+    {
+        "file_size": 584,
+        "access_frequency": 186,
+        "client_count": 24,
+        "access_density": 0.292
+    },
+    {
+        "file_size": 3031,
+        "access_frequency": 171,
+        "client_count": 39,
+        "access_density": 0.684
+    },
+    {
+        "file_size": 3207,
+        "access_frequency": 99,
+        "client_count": 10,
+        "access_density": 0.221
+    },
+    {
+        "file_size": 3841,
+        "access_frequency": 81,
+        "client_count": 15,
+        "access_density": 0.719
+    },
+    {
+        "file_size": 1221,
+        "access_frequency": 194,
+        "client_count": 8,
+        "access_density": 0.107
+    },
+    {
+        "file_size": 162,
+        "access_frequency": 181,
+        "client_count": 10,
+        "access_density": 0.896
+    },
+    {
+        "file_size": 2837,
+        "access_frequency": 157,
+        "client_count": 17,
+        "access_density": 0.345
+    },
+    {
+        "file_size": 1651,
+        "access_frequency": 151,
+        "client_count": 47,
+        "access_density": 0.821
+    },
+    {
+        "file_size": 1643,
+        "access_frequency": 133,
+        "client_count": 48,
+        "access_density": 0.575
+    },
+    {
+        "file_size": 1633,
+        "access_frequency": 41,
+        "client_count": 13,
+        "access_density": 0.919
+    },
+    {
+        "file_size": 220,
+        "access_frequency": 189,
+        "client_count": 13,
+        "access_density": 0.385
+    },
+    {
+        "file_size": 4324,
+        "access_frequency": 57,
+        "client_count": 13,
+        "access_density": 0.341
+    },
+    {
+        "file_size": 3146,
+        "access_frequency": 186,
+        "client_count": 49,
+        "access_density": 0.503
+    },
+    {
+        "file_size": 3158,
+        "access_frequency": 133,
+        "client_count": 46,
+        "access_density": 0.267
+    },
+    {
+        "file_size": 3457,
+        "access_frequency": 134,
+        "client_count": 13,
+        "access_density": 0.334
+    },
+    {
+        "file_size": 2052,
+        "access_frequency": 149,
+        "client_count": 12,
+        "access_density": 0.793
+    },
+    {
+        "file_size": 576,
+        "access_frequency": 98,
+        "client_count": 9,
+        "access_density": 0.612
+    },
+    {
+        "file_size": 3697,
+        "access_frequency": 79,
+        "client_count": 31,
+        "access_density": 0.669
+    },
+    {
+        "file_size": 2170,
+        "access_frequency": 190,
+        "client_count": 1,
+        "access_density": 0.536
+    },
+    {
+        "file_size": 3645,
+        "access_frequency": 26,
+        "client_count": 50,
+        "access_density": 0.87
+    },
+    {
+        "file_size": 1113,
+        "access_frequency": 56,
+        "client_count": 32,
+        "access_density": 0.234
+    },
+    {
+        "file_size": 4649,
+        "access_frequency": 125,
+        "client_count": 27,
+        "access_density": 0.824
+    },
+    {
+        "file_size": 1240,
+        "access_frequency": 1,
+        "client_count": 4,
+        "access_density": 0.89
+    },
+    {
+        "file_size": 4825,
+        "access_frequency": 137,
+        "client_count": 38,
+        "access_density": 0.444
+    },
+    {
+        "file_size": 2368,
+        "access_frequency": 174,
+        "client_count": 40,
+        "access_density": 0.682
+    },
+    {
+        "file_size": 3333,
+        "access_frequency": 119,
+        "client_count": 10,
+        "access_density": 0.666
+    },
+    {
+        "file_size": 3852,
+        "access_frequency": 145,
+        "client_count": 37,
+        "access_density": 0.472
+    },
+    {
+        "file_size": 3411,
+        "access_frequency": 160,
+        "client_count": 20,
+        "access_density": 0.387
+    },
+    {
+        "file_size": 3266,
+        "access_frequency": 157,
+        "client_count": 33,
+        "access_density": 0.445
+    },
+    {
+        "file_size": 2419,
+        "access_frequency": 186,
+        "client_count": 41,
+        "access_density": 0.65
+    },
+    {
+        "file_size": 508,
+        "access_frequency": 9,
+        "client_count": 38,
+        "access_density": 0.787
+    },
+    {
+        "file_size": 1979,
+        "access_frequency": 113,
+        "client_count": 28,
+        "access_density": 0.942
+    },
+    {
+        "file_size": 1701,
+        "access_frequency": 98,
+        "client_count": 32,
+        "access_density": 0.884
+    },
+    {
+        "file_size": 1356,
+        "access_frequency": 13,
+        "client_count": 14,
+        "access_density": 0.884
+    },
+    {
+        "file_size": 3768,
+        "access_frequency": 71,
+        "client_count": 47,
+        "access_density": 0.158
+    },
+    {
+        "file_size": 2810,
+        "access_frequency": 3,
+        "client_count": 4,
+        "access_density": 0.77
+    },
+    {
+        "file_size": 3530,
+        "access_frequency": 195,
+        "client_count": 32,
+        "access_density": 0.406
+    },
+    {
+        "file_size": 1685,
+        "access_frequency": 35,
+        "client_count": 43,
+        "access_density": 0.217
+    },
+    {
+        "file_size": 3397,
+        "access_frequency": 77,
+        "client_count": 29,
+        "access_density": 0.22
+    },
+    {
+        "file_size": 2355,
+        "access_frequency": 7,
+        "client_count": 34,
+        "access_density": 0.437
+    },
+    {
+        "file_size": 2675,
+        "access_frequency": 87,
+        "client_count": 8,
+        "access_density": 0.513
+    },
+    {
+        "file_size": 486,
+        "access_frequency": 86,
+        "client_count": 44,
+        "access_density": 0.449
+    },
+    {
+        "file_size": 1403,
+        "access_frequency": 41,
+        "client_count": 11,
+        "access_density": 0.635
+    },
+    {
+        "file_size": 1164,
+        "access_frequency": 41,
+        "client_count": 35,
+        "access_density": 0.339
+    },
+    {
+        "file_size": 2982,
+        "access_frequency": 101,
+        "client_count": 15,
+        "access_density": 0.156
+    },
+    {
+        "file_size": 512,
+        "access_frequency": 84,
+        "client_count": 49,
+        "access_density": 0.74
+    },
+    {
+        "file_size": 1150,
+        "access_frequency": 171,
+        "client_count": 42,
+        "access_density": 0.797
+    },
+    {
+        "file_size": 3383,
+        "access_frequency": 45,
+        "client_count": 33,
+        "access_density": 0.861
+    },
+    {
+        "file_size": 1736,
+        "access_frequency": 44,
+        "client_count": 37,
+        "access_density": 0.479
+    },
+    {
+        "file_size": 3871,
+        "access_frequency": 73,
+        "client_count": 11,
+        "access_density": 0.204
+    },
+    {
+        "file_size": 218,
+        "access_frequency": 88,
+        "client_count": 18,
+        "access_density": 0.241
+    },
+    {
+        "file_size": 4729,
+        "access_frequency": 187,
+        "client_count": 43,
+        "access_density": 0.815
+    },
+    {
+        "file_size": 2987,
+        "access_frequency": 119,
+        "client_count": 30,
+        "access_density": 0.91
+    },
+    {
+        "file_size": 4276,
+        "access_frequency": 57,
+        "client_count": 35,
+        "access_density": 0.642
+    },
+    {
+        "file_size": 1527,
+        "access_frequency": 27,
+        "client_count": 49,
+        "access_density": 0.466
+    },
+    {
+        "file_size": 125,
+        "access_frequency": 30,
+        "client_count": 47,
+        "access_density": 0.572
+    },
+    {
+        "file_size": 2942,
+        "access_frequency": 176,
+        "client_count": 45,
+        "access_density": 0.798
+    },
+    {
+        "file_size": 4261,
+        "access_frequency": 184,
+        "client_count": 37,
+        "access_density": 0.715
+    },
+    {
+        "file_size": 2611,
+        "access_frequency": 189,
+        "client_count": 15,
+        "access_density": 0.973
+    },
+    {
+        "file_size": 2981,
+        "access_frequency": 167,
+        "client_count": 16,
+        "access_density": 0.869
+    },
+    {
+        "file_size": 2347,
+        "access_frequency": 135,
+        "client_count": 9,
+        "access_density": 0.817
+    },
+    {
+        "file_size": 2730,
+        "access_frequency": 11,
+        "client_count": 32,
+        "access_density": 0.184
+    },
+    {
+        "file_size": 1632,
+        "access_frequency": 51,
+        "client_count": 10,
+        "access_density": 0.389
+    },
+    {
+        "file_size": 2221,
+        "access_frequency": 155,
+        "client_count": 5,
+        "access_density": 0.402
+    },
+    {
+        "file_size": 1737,
+        "access_frequency": 159,
+        "client_count": 37,
+        "access_density": 0.523
+    },
+    {
+        "file_size": 4060,
+        "access_frequency": 159,
+        "client_count": 11,
+        "access_density": 0.586
+    },
+    {
+        "file_size": 457,
+        "access_frequency": 37,
+        "client_count": 28,
+        "access_density": 0.786
+    },
+    {
+        "file_size": 1842,
+        "access_frequency": 192,
+        "client_count": 41,
+        "access_density": 0.481
+    },
+    {
+        "file_size": 1701,
+        "access_frequency": 130,
+        "client_count": 38,
+        "access_density": 0.232
+    },
+    {
+        "file_size": 1089,
+        "access_frequency": 131,
+        "client_count": 44,
+        "access_density": 0.167
+    },
+    {
+        "file_size": 807,
+        "access_frequency": 159,
+        "client_count": 44,
+        "access_density": 0.189
+    },
+    {
+        "file_size": 277,
+        "access_frequency": 102,
+        "client_count": 2,
+        "access_density": 0.536
+    },
+    {
+        "file_size": 2563,
+        "access_frequency": 17,
+        "client_count": 22,
+        "access_density": 0.865
+    },
+    {
+        "file_size": 154,
+        "access_frequency": 98,
+        "client_count": 33,
+        "access_density": 0.677
+    },
+    {
+        "file_size": 449,
+        "access_frequency": 17,
+        "client_count": 34,
+        "access_density": 0.294
+    },
+    {
+        "file_size": 1165,
+        "access_frequency": 180,
+        "client_count": 38,
+        "access_density": 0.932
+    },
+    {
+        "file_size": 3076,
+        "access_frequency": 98,
+        "client_count": 5,
+        "access_density": 0.748
+    },
+    {
+        "file_size": 4552,
+        "access_frequency": 193,
+        "client_count": 33,
+        "access_density": 0.378
+    },
+    {
+        "file_size": 1238,
+        "access_frequency": 92,
+        "client_count": 22,
+        "access_density": 0.295
+    },
+    {
+        "file_size": 3041,
+        "access_frequency": 181,
+        "client_count": 31,
+        "access_density": 0.352
+    },
+    {
+        "file_size": 4294,
+        "access_frequency": 20,
+        "client_count": 4,
+        "access_density": 0.813
+    },
+    {
+        "file_size": 1622,
+        "access_frequency": 5,
+        "client_count": 13,
+        "access_density": 0.189
+    },
+    {
+        "file_size": 4416,
+        "access_frequency": 92,
+        "client_count": 44,
+        "access_density": 0.423
+    },
+    {
+        "file_size": 2623,
+        "access_frequency": 113,
+        "client_count": 23,
+        "access_density": 0.143
+    },
+    {
+        "file_size": 440,
+        "access_frequency": 173,
+        "client_count": 36,
+        "access_density": 0.109
+    },
+    {
+        "file_size": 2548,
+        "access_frequency": 5,
+        "client_count": 35,
+        "access_density": 0.209
+    },
+    {
+        "file_size": 1581,
+        "access_frequency": 102,
+        "client_count": 11,
+        "access_density": 0.719
+    },
+    {
+        "file_size": 2940,
+        "access_frequency": 135,
+        "client_count": 1,
+        "access_density": 0.292
+    },
+    {
+        "file_size": 3638,
+        "access_frequency": 193,
+        "client_count": 6,
+        "access_density": 0.897
+    },
+    {
+        "file_size": 937,
+        "access_frequency": 167,
+        "client_count": 7,
+        "access_density": 0.185
+    },
+    {
+        "file_size": 2507,
+        "access_frequency": 187,
+        "client_count": 43,
+        "access_density": 0.427
+    },
+    {
+        "file_size": 3495,
+        "access_frequency": 97,
+        "client_count": 15,
+        "access_density": 0.208
+    },
+    {
+        "file_size": 913,
+        "access_frequency": 65,
+        "client_count": 5,
+        "access_density": 0.767
+    },
+    {
+        "file_size": 2952,
+        "access_frequency": 120,
+        "client_count": 41,
+        "access_density": 0.17
+    },
+    {
+        "file_size": 1562,
+        "access_frequency": 96,
+        "client_count": 10,
+        "access_density": 0.73
+    },
+    {
+        "file_size": 1148,
+        "access_frequency": 13,
+        "client_count": 11,
+        "access_density": 0.753
+    },
+    {
+        "file_size": 3716,
+        "access_frequency": 54,
+        "client_count": 22,
+        "access_density": 0.861
+    },
+    {
+        "file_size": 960,
+        "access_frequency": 135,
+        "client_count": 6,
+        "access_density": 0.893
+    },
+    {
+        "file_size": 3443,
+        "access_frequency": 11,
+        "client_count": 30,
+        "access_density": 0.769
+    },
+    {
+        "file_size": 4604,
+        "access_frequency": 22,
+        "client_count": 35,
+        "access_density": 0.23
+    },
+    {
+        "file_size": 2799,
+        "access_frequency": 23,
+        "client_count": 48,
+        "access_density": 0.995
+    },
+    {
+        "file_size": 1243,
+        "access_frequency": 158,
+        "client_count": 32,
+        "access_density": 0.678
+    },
+    {
+        "file_size": 502,
+        "access_frequency": 177,
+        "client_count": 19,
+        "access_density": 0.808
+    },
+    {
+        "file_size": 1898,
+        "access_frequency": 52,
+        "client_count": 4,
+        "access_density": 0.162
+    },
+    {
+        "file_size": 4086,
+        "access_frequency": 64,
+        "client_count": 36,
+        "access_density": 0.734
+    },
+    {
+        "file_size": 1239,
+        "access_frequency": 48,
+        "client_count": 11,
+        "access_density": 0.524
+    },
+    {
+        "file_size": 3836,
+        "access_frequency": 192,
+        "client_count": 28,
+        "access_density": 0.89
+    },
+    {
+        "file_size": 4991,
+        "access_frequency": 185,
+        "client_count": 40,
+        "access_density": 0.756
+    },
+    {
+        "file_size": 4398,
+        "access_frequency": 107,
+        "client_count": 44,
+        "access_density": 0.615
+    },
+    {
+        "file_size": 2366,
+        "access_frequency": 184,
+        "client_count": 38,
+        "access_density": 0.901
+    },
+    {
+        "file_size": 3250,
+        "access_frequency": 96,
+        "client_count": 10,
+        "access_density": 0.863
+    },
+    {
+        "file_size": 3595,
+        "access_frequency": 26,
+        "client_count": 26,
+        "access_density": 0.906
+    },
+    {
+        "file_size": 339,
+        "access_frequency": 86,
+        "client_count": 6,
+        "access_density": 0.711
+    },
+    {
+        "file_size": 710,
+        "access_frequency": 62,
+        "client_count": 45,
+        "access_density": 0.787
+    },
+    {
+        "file_size": 1453,
+        "access_frequency": 47,
+        "client_count": 20,
+        "access_density": 0.455
+    },
+    {
+        "file_size": 4584,
+        "access_frequency": 96,
+        "client_count": 38,
+        "access_density": 0.198
+    },
+    {
+        "file_size": 2936,
+        "access_frequency": 71,
+        "client_count": 48,
+        "access_density": 0.98
+    },
+    {
+        "file_size": 3851,
+        "access_frequency": 93,
+        "client_count": 44,
+        "access_density": 0.458
+    },
+    {
+        "file_size": 1486,
+        "access_frequency": 109,
+        "client_count": 46,
+        "access_density": 0.826
+    },
+    {
+        "file_size": 2714,
+        "access_frequency": 109,
+        "client_count": 9,
+        "access_density": 0.801
+    },
+    {
+        "file_size": 3558,
+        "access_frequency": 119,
+        "client_count": 30,
+        "access_density": 0.261
+    },
+    {
+        "file_size": 914,
+        "access_frequency": 92,
+        "client_count": 40,
+        "access_density": 0.721
+    },
+    {
+        "file_size": 2774,
+        "access_frequency": 60,
+        "client_count": 24,
+        "access_density": 0.101
+    },
+    {
+        "file_size": 2950,
+        "access_frequency": 118,
+        "client_count": 6,
+        "access_density": 0.196
+    },
+    {
+        "file_size": 3539,
+        "access_frequency": 90,
+        "client_count": 1,
+        "access_density": 0.343
+    },
+    {
+        "file_size": 3175,
+        "access_frequency": 200,
+        "client_count": 2,
+        "access_density": 0.348
+    },
+    {
+        "file_size": 3858,
+        "access_frequency": 45,
+        "client_count": 25,
+        "access_density": 0.664
+    },
+    {
+        "file_size": 3000,
+        "access_frequency": 66,
+        "client_count": 2,
+        "access_density": 0.162
+    },
+    {
+        "file_size": 1285,
+        "access_frequency": 191,
+        "client_count": 14,
+        "access_density": 0.661
+    },
+    {
+        "file_size": 4437,
+        "access_frequency": 136,
+        "client_count": 25,
+        "access_density": 0.267
+    },
+    {
+        "file_size": 4972,
+        "access_frequency": 96,
+        "client_count": 6,
+        "access_density": 0.784
+    },
+    {
+        "file_size": 984,
+        "access_frequency": 160,
+        "client_count": 31,
+        "access_density": 0.495
+    },
+    {
+        "file_size": 2238,
+        "access_frequency": 36,
+        "client_count": 18,
+        "access_density": 0.885
+    },
+    {
+        "file_size": 4901,
+        "access_frequency": 17,
+        "client_count": 18,
+        "access_density": 0.623
+    },
+    {
+        "file_size": 375,
+        "access_frequency": 139,
+        "client_count": 45,
+        "access_density": 0.175
+    },
+    {
+        "file_size": 4977,
+        "access_frequency": 28,
+        "client_count": 41,
+        "access_density": 0.529
+    },
+    {
+        "file_size": 1947,
+        "access_frequency": 96,
+        "client_count": 13,
+        "access_density": 0.189
+    },
+    {
+        "file_size": 2697,
+        "access_frequency": 182,
+        "client_count": 12,
+        "access_density": 0.992
+    },
+    {
+        "file_size": 1280,
+        "access_frequency": 19,
+        "client_count": 34,
+        "access_density": 0.412
+    },
+    {
+        "file_size": 3376,
+        "access_frequency": 36,
+        "client_count": 20,
+        "access_density": 0.449
+    },
+    {
+        "file_size": 4204,
+        "access_frequency": 88,
+        "client_count": 31,
+        "access_density": 0.186
+    },
+    {
+        "file_size": 448,
+        "access_frequency": 43,
+        "client_count": 40,
+        "access_density": 0.478
+    },
+    {
+        "file_size": 2913,
+        "access_frequency": 165,
+        "client_count": 23,
+        "access_density": 0.315
+    },
+    {
+        "file_size": 2323,
+        "access_frequency": 146,
+        "client_count": 49,
+        "access_density": 0.754
+    },
+    {
+        "file_size": 2431,
+        "access_frequency": 18,
+        "client_count": 17,
+        "access_density": 0.453
+    },
+    {
+        "file_size": 2172,
+        "access_frequency": 49,
+        "client_count": 28,
+        "access_density": 0.116
+    },
+    {
+        "file_size": 4765,
+        "access_frequency": 153,
+        "client_count": 10,
+        "access_density": 0.314
+    },
+    {
+        "file_size": 1492,
+        "access_frequency": 6,
+        "client_count": 42,
+        "access_density": 0.576
+    },
+    {
+        "file_size": 4360,
+        "access_frequency": 66,
+        "client_count": 5,
+        "access_density": 0.819
+    },
+    {
+        "file_size": 4264,
+        "access_frequency": 50,
+        "client_count": 44,
+        "access_density": 0.47
+    },
+    {
+        "file_size": 2600,
+        "access_frequency": 96,
+        "client_count": 22,
+        "access_density": 0.794
+    },
+    {
+        "file_size": 2020,
+        "access_frequency": 18,
+        "client_count": 26,
+        "access_density": 0.84
+    },
+    {
+        "file_size": 4683,
+        "access_frequency": 94,
+        "client_count": 5,
+        "access_density": 0.292
+    },
+    {
+        "file_size": 4807,
+        "access_frequency": 192,
+        "client_count": 31,
+        "access_density": 0.376
+    },
+    {
+        "file_size": 3969,
+        "access_frequency": 126,
+        "client_count": 29,
+        "access_density": 0.403
+    },
+    {
+        "file_size": 1403,
+        "access_frequency": 54,
+        "client_count": 2,
+        "access_density": 0.157
+    },
+    {
+        "file_size": 2280,
+        "access_frequency": 1,
+        "client_count": 21,
+        "access_density": 0.939
+    },
+    {
+        "file_size": 284,
+        "access_frequency": 8,
+        "client_count": 47,
+        "access_density": 0.211
+    },
+    {
+        "file_size": 1346,
+        "access_frequency": 61,
+        "client_count": 43,
+        "access_density": 0.452
+    },
+    {
+        "file_size": 4953,
+        "access_frequency": 91,
+        "client_count": 47,
+        "access_density": 0.342
+    },
+    {
+        "file_size": 1144,
+        "access_frequency": 80,
+        "client_count": 35,
+        "access_density": 0.66
+    },
+    {
+        "file_size": 2978,
+        "access_frequency": 55,
+        "client_count": 14,
+        "access_density": 0.75
+    },
+    {
+        "file_size": 1642,
+        "access_frequency": 24,
+        "client_count": 27,
+        "access_density": 0.998
+    },
+    {
+        "file_size": 2229,
+        "access_frequency": 75,
+        "client_count": 30,
+        "access_density": 0.525
+    },
+    {
+        "file_size": 3175,
+        "access_frequency": 189,
+        "client_count": 17,
+        "access_density": 0.512
+    },
+    {
+        "file_size": 3090,
+        "access_frequency": 115,
+        "client_count": 19,
+        "access_density": 0.62
+    },
+    {
+        "file_size": 1553,
+        "access_frequency": 144,
+        "client_count": 45,
+        "access_density": 0.748
+    },
+    {
+        "file_size": 380,
+        "access_frequency": 22,
+        "client_count": 1,
+        "access_density": 0.159
+    },
+    {
+        "file_size": 990,
+        "access_frequency": 155,
+        "client_count": 6,
+        "access_density": 0.87
+    },
+    {
+        "file_size": 2946,
+        "access_frequency": 199,
+        "client_count": 46,
+        "access_density": 0.186
+    },
+    {
+        "file_size": 2837,
+        "access_frequency": 53,
+        "client_count": 21,
+        "access_density": 0.444
+    },
+    {
+        "file_size": 3963,
+        "access_frequency": 103,
+        "client_count": 18,
+        "access_density": 0.224
+    },
+    {
+        "file_size": 2312,
+        "access_frequency": 174,
+        "client_count": 50,
+        "access_density": 0.296
+    },
+    {
+        "file_size": 3486,
+        "access_frequency": 165,
+        "client_count": 9,
+        "access_density": 0.544
+    },
+    {
+        "file_size": 825,
+        "access_frequency": 46,
+        "client_count": 25,
+        "access_density": 0.562
+    },
+    {
+        "file_size": 2260,
+        "access_frequency": 71,
+        "client_count": 7,
+        "access_density": 0.91
+    },
+    {
+        "file_size": 558,
+        "access_frequency": 77,
+        "client_count": 47,
+        "access_density": 0.807
+    },
+    {
+        "file_size": 960,
+        "access_frequency": 185,
+        "client_count": 5,
+        "access_density": 0.282
+    },
+    {
+        "file_size": 4732,
+        "access_frequency": 151,
+        "client_count": 22,
+        "access_density": 0.269
+    },
+    {
+        "file_size": 135,
+        "access_frequency": 184,
+        "client_count": 2,
+        "access_density": 0.157
+    },
+    {
+        "file_size": 1822,
+        "access_frequency": 194,
+        "client_count": 32,
+        "access_density": 0.114
+    },
+    {
+        "file_size": 2485,
+        "access_frequency": 136,
+        "client_count": 18,
+        "access_density": 0.811
+    },
+    {
+        "file_size": 662,
+        "access_frequency": 112,
+        "client_count": 13,
+        "access_density": 0.35
+    },
+    {
+        "file_size": 3831,
+        "access_frequency": 22,
+        "client_count": 2,
+        "access_density": 0.916
+    },
+    {
+        "file_size": 4088,
+        "access_frequency": 109,
+        "client_count": 11,
+        "access_density": 0.651
+    },
+    {
+        "file_size": 3871,
+        "access_frequency": 127,
+        "client_count": 23,
+        "access_density": 0.808
+    },
+    {
+        "file_size": 3727,
+        "access_frequency": 195,
+        "client_count": 40,
+        "access_density": 0.685
+    },
+    {
+        "file_size": 2859,
+        "access_frequency": 144,
+        "client_count": 10,
+        "access_density": 0.337
+    },
+    {
+        "file_size": 4447,
+        "access_frequency": 196,
+        "client_count": 50,
+        "access_density": 0.718
+    },
+    {
+        "file_size": 4381,
+        "access_frequency": 111,
+        "client_count": 38,
+        "access_density": 0.639
+    },
+    {
+        "file_size": 4339,
+        "access_frequency": 93,
+        "client_count": 25,
+        "access_density": 0.907
+    },
+    {
+        "file_size": 3251,
+        "access_frequency": 106,
+        "client_count": 46,
+        "access_density": 0.481
+    },
+    {
+        "file_size": 4988,
+        "access_frequency": 29,
+        "client_count": 11,
+        "access_density": 0.692
+    },
+    {
+        "file_size": 4405,
+        "access_frequency": 6,
+        "client_count": 49,
+        "access_density": 0.501
+    },
+    {
+        "file_size": 3302,
+        "access_frequency": 92,
+        "client_count": 10,
+        "access_density": 0.575
+    },
+    {
+        "file_size": 2921,
+        "access_frequency": 187,
+        "client_count": 42,
+        "access_density": 0.164
+    },
+    {
+        "file_size": 714,
+        "access_frequency": 192,
+        "client_count": 46,
+        "access_density": 0.292
+    },
+    {
+        "file_size": 3209,
+        "access_frequency": 129,
+        "client_count": 24,
+        "access_density": 0.151
+    },
+    {
+        "file_size": 4149,
+        "access_frequency": 8,
+        "client_count": 14,
+        "access_density": 0.297
+    },
+    {
+        "file_size": 4026,
+        "access_frequency": 32,
+        "client_count": 49,
+        "access_density": 0.162
+    },
+    {
+        "file_size": 2311,
+        "access_frequency": 70,
+        "client_count": 28,
+        "access_density": 0.882
+    },
+    {
+        "file_size": 1322,
+        "access_frequency": 101,
+        "client_count": 37,
+        "access_density": 0.927
+    },
+    {
+        "file_size": 933,
+        "access_frequency": 185,
+        "client_count": 8,
+        "access_density": 0.254
+    },
+    {
+        "file_size": 4718,
+        "access_frequency": 182,
+        "client_count": 1,
+        "access_density": 0.165
+    },
+    {
+        "file_size": 4255,
+        "access_frequency": 96,
+        "client_count": 21,
+        "access_density": 0.302
+    },
+    {
+        "file_size": 741,
+        "access_frequency": 30,
+        "client_count": 43,
+        "access_density": 0.651
+    },
+    {
+        "file_size": 4609,
+        "access_frequency": 188,
+        "client_count": 31,
+        "access_density": 0.638
+    },
+    {
+        "file_size": 3698,
+        "access_frequency": 50,
+        "client_count": 26,
+        "access_density": 0.926
+    },
+    {
+        "file_size": 3196,
+        "access_frequency": 133,
+        "client_count": 16,
+        "access_density": 0.574
+    },
+    {
+        "file_size": 2118,
+        "access_frequency": 22,
+        "client_count": 33,
+        "access_density": 0.274
+    },
+    {
+        "file_size": 3884,
+        "access_frequency": 128,
+        "client_count": 30,
+        "access_density": 0.146
+    },
+    {
+        "file_size": 4642,
+        "access_frequency": 66,
+        "client_count": 28,
+        "access_density": 0.8
+    },
+    {
+        "file_size": 671,
+        "access_frequency": 86,
+        "client_count": 14,
+        "access_density": 0.866
+    },
+    {
+        "file_size": 4876,
+        "access_frequency": 135,
+        "client_count": 11,
+        "access_density": 0.864
+    },
+    {
+        "file_size": 2259,
+        "access_frequency": 5,
+        "client_count": 36,
+        "access_density": 0.19
+    },
+    {
+        "file_size": 4646,
+        "access_frequency": 96,
+        "client_count": 45,
+        "access_density": 0.584
+    },
+    {
+        "file_size": 921,
+        "access_frequency": 59,
+        "client_count": 30,
+        "access_density": 0.549
+    },
+    {
+        "file_size": 4651,
+        "access_frequency": 3,
+        "client_count": 20,
+        "access_density": 0.41
+    },
+    {
+        "file_size": 4892,
+        "access_frequency": 9,
+        "client_count": 26,
+        "access_density": 0.351
+    },
+    {
+        "file_size": 1187,
+        "access_frequency": 171,
+        "client_count": 36,
+        "access_density": 0.591
+    },
+    {
+        "file_size": 2913,
+        "access_frequency": 27,
+        "client_count": 15,
+        "access_density": 0.645
+    },
+    {
+        "file_size": 1659,
+        "access_frequency": 133,
+        "client_count": 5,
+        "access_density": 0.948
+    },
+    {
+        "file_size": 4266,
+        "access_frequency": 171,
+        "client_count": 2,
+        "access_density": 0.61
+    },
+    {
+        "file_size": 1823,
+        "access_frequency": 167,
+        "client_count": 17,
+        "access_density": 0.641
+    },
+    {
+        "file_size": 3139,
+        "access_frequency": 127,
+        "client_count": 36,
+        "access_density": 0.794
+    },
+    {
+        "file_size": 3696,
+        "access_frequency": 68,
+        "client_count": 43,
+        "access_density": 0.643
+    },
+    {
+        "file_size": 339,
+        "access_frequency": 25,
+        "client_count": 11,
+        "access_density": 0.514
+    },
+    {
+        "file_size": 2304,
+        "access_frequency": 102,
+        "client_count": 14,
+        "access_density": 0.759
+    },
+    {
+        "file_size": 1550,
+        "access_frequency": 132,
+        "client_count": 13,
+        "access_density": 0.245
+    },
+    {
+        "file_size": 346,
+        "access_frequency": 188,
+        "client_count": 42,
+        "access_density": 0.333
+    },
+    {
+        "file_size": 2311,
+        "access_frequency": 200,
+        "client_count": 6,
+        "access_density": 0.329
+    },
+    {
+        "file_size": 2051,
+        "access_frequency": 91,
+        "client_count": 25,
+        "access_density": 0.246
+    },
+    {
+        "file_size": 3547,
+        "access_frequency": 8,
+        "client_count": 38,
+        "access_density": 0.977
+    },
+    {
+        "file_size": 4254,
+        "access_frequency": 72,
+        "client_count": 33,
+        "access_density": 0.717
+    },
+    {
+        "file_size": 2393,
+        "access_frequency": 40,
+        "client_count": 6,
+        "access_density": 0.747
+    },
+    {
+        "file_size": 1817,
+        "access_frequency": 100,
+        "client_count": 37,
+        "access_density": 0.915
+    },
+    {
+        "file_size": 1332,
+        "access_frequency": 8,
+        "client_count": 22,
+        "access_density": 0.324
+    },
+    {
+        "file_size": 511,
+        "access_frequency": 118,
+        "client_count": 17,
+        "access_density": 0.124
+    },
+    {
+        "file_size": 2799,
+        "access_frequency": 163,
+        "client_count": 28,
+        "access_density": 0.166
+    },
+    {
+        "file_size": 580,
+        "access_frequency": 191,
+        "client_count": 24,
+        "access_density": 0.969
+    },
+    {
+        "file_size": 1386,
+        "access_frequency": 174,
+        "client_count": 5,
+        "access_density": 0.542
+    },
+    {
+        "file_size": 3924,
+        "access_frequency": 158,
+        "client_count": 24,
+        "access_density": 0.756
+    },
+    {
+        "file_size": 4935,
+        "access_frequency": 176,
+        "client_count": 34,
+        "access_density": 0.364
+    },
+    {
+        "file_size": 1604,
+        "access_frequency": 76,
+        "client_count": 47,
+        "access_density": 0.934
+    },
+    {
+        "file_size": 3814,
+        "access_frequency": 61,
+        "client_count": 12,
+        "access_density": 0.818
+    },
+    {
+        "file_size": 2776,
+        "access_frequency": 14,
+        "client_count": 42,
+        "access_density": 0.343
+    },
+    {
+        "file_size": 671,
+        "access_frequency": 9,
+        "client_count": 11,
+        "access_density": 0.66
+    },
+    {
+        "file_size": 1439,
+        "access_frequency": 9,
+        "client_count": 10,
+        "access_density": 0.705
+    },
+    {
+        "file_size": 375,
+        "access_frequency": 57,
+        "client_count": 8,
+        "access_density": 0.934
+    },
+    {
+        "file_size": 994,
+        "access_frequency": 181,
+        "client_count": 21,
+        "access_density": 0.32
+    },
+    {
+        "file_size": 1280,
+        "access_frequency": 94,
+        "client_count": 36,
+        "access_density": 0.669
+    },
+    {
+        "file_size": 2391,
+        "access_frequency": 162,
+        "client_count": 41,
+        "access_density": 0.717
+    },
+    {
+        "file_size": 1952,
+        "access_frequency": 83,
+        "client_count": 15,
+        "access_density": 0.177
+    },
+    {
+        "file_size": 1788,
+        "access_frequency": 24,
+        "client_count": 24,
+        "access_density": 0.647
+    },
+    {
+        "file_size": 789,
+        "access_frequency": 6,
+        "client_count": 24,
+        "access_density": 0.498
+    },
+    {
+        "file_size": 1401,
+        "access_frequency": 197,
+        "client_count": 22,
+        "access_density": 0.889
+    },
+    {
+        "file_size": 4635,
+        "access_frequency": 136,
+        "client_count": 26,
+        "access_density": 0.519
+    },
+    {
+        "file_size": 3953,
+        "access_frequency": 165,
+        "client_count": 20,
+        "access_density": 0.725
+    },
+    {
+        "file_size": 4225,
+        "access_frequency": 35,
+        "client_count": 38,
+        "access_density": 0.149
+    },
+    {
+        "file_size": 2449,
+        "access_frequency": 123,
+        "client_count": 30,
+        "access_density": 0.106
+    },
+    {
+        "file_size": 2023,
+        "access_frequency": 117,
+        "client_count": 16,
+        "access_density": 0.983
+    },
+    {
+        "file_size": 4622,
+        "access_frequency": 54,
+        "client_count": 18,
+        "access_density": 0.637
+    },
+    {
+        "file_size": 2302,
+        "access_frequency": 129,
+        "client_count": 11,
+        "access_density": 0.975
+    },
+    {
+        "file_size": 1042,
+        "access_frequency": 198,
+        "client_count": 18,
+        "access_density": 0.83
+    },
+    {
+        "file_size": 1373,
+        "access_frequency": 180,
+        "client_count": 5,
+        "access_density": 0.932
+    },
+    {
+        "file_size": 2909,
+        "access_frequency": 10,
+        "client_count": 33,
+        "access_density": 0.196
+    },
+    {
+        "file_size": 1037,
+        "access_frequency": 70,
+        "client_count": 43,
+        "access_density": 0.264
+    },
+    {
+        "file_size": 436,
+        "access_frequency": 180,
+        "client_count": 1,
+        "access_density": 0.139
+    },
+    {
+        "file_size": 1275,
+        "access_frequency": 17,
+        "client_count": 23,
+        "access_density": 0.72
+    },
+    {
+        "file_size": 1800,
+        "access_frequency": 60,
+        "client_count": 43,
+        "access_density": 0.44
+    },
+    {
+        "file_size": 4119,
+        "access_frequency": 134,
+        "client_count": 2,
+        "access_density": 0.329
+    },
+    {
+        "file_size": 2815,
+        "access_frequency": 18,
+        "client_count": 14,
+        "access_density": 0.336
+    },
+    {
+        "file_size": 1950,
+        "access_frequency": 38,
+        "client_count": 26,
+        "access_density": 0.286
+    },
+    {
+        "file_size": 4780,
+        "access_frequency": 168,
+        "client_count": 5,
+        "access_density": 0.739
+    },
+    {
+        "file_size": 3403,
+        "access_frequency": 150,
+        "client_count": 7,
+        "access_density": 0.8
+    },
+    {
+        "file_size": 2847,
+        "access_frequency": 93,
+        "client_count": 26,
+        "access_density": 0.985
+    },
+    {
+        "file_size": 302,
+        "access_frequency": 102,
+        "client_count": 44,
+        "access_density": 0.979
+    },
+    {
+        "file_size": 4726,
+        "access_frequency": 104,
+        "client_count": 32,
+        "access_density": 0.473
+    },
+    {
+        "file_size": 1741,
+        "access_frequency": 9,
+        "client_count": 4,
+        "access_density": 0.374
+    },
+    {
+        "file_size": 4204,
+        "access_frequency": 181,
+        "client_count": 15,
+        "access_density": 0.721
+    },
+    {
+        "file_size": 1896,
+        "access_frequency": 193,
+        "client_count": 7,
+        "access_density": 0.291
+    },
+    {
+        "file_size": 2965,
+        "access_frequency": 122,
+        "client_count": 42,
+        "access_density": 0.967
+    },
+    {
+        "file_size": 668,
+        "access_frequency": 106,
+        "client_count": 26,
+        "access_density": 0.386
+    },
+    {
+        "file_size": 696,
+        "access_frequency": 40,
+        "client_count": 5,
+        "access_density": 0.953
+    },
+    {
+        "file_size": 4533,
+        "access_frequency": 126,
+        "client_count": 30,
+        "access_density": 0.745
+    },
+    {
+        "file_size": 1169,
+        "access_frequency": 47,
+        "client_count": 9,
+        "access_density": 0.865
+    },
+    {
+        "file_size": 2621,
+        "access_frequency": 161,
+        "client_count": 20,
+        "access_density": 0.153
+    },
+    {
+        "file_size": 311,
+        "access_frequency": 116,
+        "client_count": 46,
+        "access_density": 0.443
+    },
+    {
+        "file_size": 3132,
+        "access_frequency": 71,
+        "client_count": 20,
+        "access_density": 0.989
+    },
+    {
+        "file_size": 2499,
+        "access_frequency": 98,
+        "client_count": 43,
+        "access_density": 0.972
+    },
+    {
+        "file_size": 461,
+        "access_frequency": 69,
+        "client_count": 14,
+        "access_density": 0.504
+    },
+    {
+        "file_size": 1125,
+        "access_frequency": 91,
+        "client_count": 45,
+        "access_density": 0.376
+    },
+    {
+        "file_size": 2314,
+        "access_frequency": 25,
+        "client_count": 50,
+        "access_density": 0.82
+    },
+    {
+        "file_size": 2140,
+        "access_frequency": 157,
+        "client_count": 46,
+        "access_density": 0.871
+    },
+    {
+        "file_size": 509,
+        "access_frequency": 32,
+        "client_count": 36,
+        "access_density": 0.846
+    },
+    {
+        "file_size": 3826,
+        "access_frequency": 160,
+        "client_count": 15,
+        "access_density": 0.102
+    },
+    {
+        "file_size": 1770,
+        "access_frequency": 38,
+        "client_count": 48,
+        "access_density": 0.485
+    },
+    {
+        "file_size": 4326,
+        "access_frequency": 176,
+        "client_count": 37,
+        "access_density": 0.395
+    },
+    {
+        "file_size": 4581,
+        "access_frequency": 113,
+        "client_count": 3,
+        "access_density": 0.98
+    },
+    {
+        "file_size": 391,
+        "access_frequency": 20,
+        "client_count": 19,
+        "access_density": 0.664
+    },
+    {
+        "file_size": 2541,
+        "access_frequency": 111,
+        "client_count": 10,
+        "access_density": 0.789
+    },
+    {
+        "file_size": 386,
+        "access_frequency": 86,
+        "client_count": 7,
+        "access_density": 0.356
+    },
+    {
+        "file_size": 2500,
+        "access_frequency": 75,
+        "client_count": 49,
+        "access_density": 0.125
+    },
+    {
+        "file_size": 4356,
+        "access_frequency": 121,
+        "client_count": 12,
+        "access_density": 0.128
+    },
+    {
+        "file_size": 4138,
+        "access_frequency": 83,
+        "client_count": 19,
+        "access_density": 0.753
+    },
+    {
+        "file_size": 1095,
+        "access_frequency": 66,
+        "client_count": 29,
+        "access_density": 0.841
+    },
+    {
+        "file_size": 4962,
+        "access_frequency": 39,
+        "client_count": 5,
+        "access_density": 0.918
+    },
+    {
+        "file_size": 1514,
+        "access_frequency": 44,
+        "client_count": 36,
+        "access_density": 0.32
+    },
+    {
+        "file_size": 3052,
+        "access_frequency": 81,
+        "client_count": 33,
+        "access_density": 0.384
+    },
+    {
+        "file_size": 2403,
+        "access_frequency": 157,
+        "client_count": 2,
+        "access_density": 0.596
+    },
+    {
+        "file_size": 1420,
+        "access_frequency": 102,
+        "client_count": 19,
+        "access_density": 0.857
+    },
+    {
+        "file_size": 838,
+        "access_frequency": 147,
+        "client_count": 11,
+        "access_density": 0.301
+    },
+    {
+        "file_size": 3697,
+        "access_frequency": 194,
+        "client_count": 34,
+        "access_density": 0.419
+    },
+    {
+        "file_size": 4797,
+        "access_frequency": 89,
+        "client_count": 35,
+        "access_density": 0.271
+    },
+    {
+        "file_size": 630,
+        "access_frequency": 88,
+        "client_count": 13,
+        "access_density": 0.359
+    },
+    {
+        "file_size": 2142,
+        "access_frequency": 51,
+        "client_count": 37,
+        "access_density": 0.305
+    },
+    {
+        "file_size": 4739,
+        "access_frequency": 182,
+        "client_count": 19,
+        "access_density": 0.294
+    },
+    {
+        "file_size": 2526,
+        "access_frequency": 101,
+        "client_count": 38,
+        "access_density": 0.954
+    },
+    {
+        "file_size": 763,
+        "access_frequency": 99,
+        "client_count": 7,
+        "access_density": 0.696
+    },
+    {
+        "file_size": 241,
+        "access_frequency": 123,
+        "client_count": 15,
+        "access_density": 0.213
+    },
+    {
+        "file_size": 2111,
+        "access_frequency": 7,
+        "client_count": 22,
+        "access_density": 0.772
+    },
+    {
+        "file_size": 2551,
+        "access_frequency": 6,
+        "client_count": 19,
+        "access_density": 0.464
+    },
+    {
+        "file_size": 2592,
+        "access_frequency": 72,
+        "client_count": 11,
+        "access_density": 0.873
+    },
+    {
+        "file_size": 1949,
+        "access_frequency": 144,
+        "client_count": 35,
+        "access_density": 0.684
+    },
+    {
+        "file_size": 4913,
+        "access_frequency": 79,
+        "client_count": 40,
+        "access_density": 0.333
+    },
+    {
+        "file_size": 4594,
+        "access_frequency": 172,
+        "client_count": 26,
+        "access_density": 0.352
+    },
+    {
+        "file_size": 3954,
+        "access_frequency": 56,
+        "client_count": 20,
+        "access_density": 0.909
+    },
+    {
+        "file_size": 4599,
+        "access_frequency": 159,
+        "client_count": 36,
+        "access_density": 0.608
+    },
+    {
+        "file_size": 186,
+        "access_frequency": 74,
+        "client_count": 47,
+        "access_density": 0.22
+    },
+    {
+        "file_size": 4626,
+        "access_frequency": 89,
+        "client_count": 3,
+        "access_density": 0.239
+    },
+    {
+        "file_size": 2989,
+        "access_frequency": 66,
+        "client_count": 43,
+        "access_density": 0.696
+    },
+    {
+        "file_size": 2956,
+        "access_frequency": 164,
+        "client_count": 15,
+        "access_density": 0.17
+    },
+    {
+        "file_size": 3916,
+        "access_frequency": 120,
+        "client_count": 5,
+        "access_density": 0.219
+    },
+    {
+        "file_size": 2186,
+        "access_frequency": 20,
+        "client_count": 50,
+        "access_density": 0.934
+    },
+    {
+        "file_size": 2642,
+        "access_frequency": 104,
+        "client_count": 3,
+        "access_density": 0.311
+    },
+    {
+        "file_size": 1122,
+        "access_frequency": 50,
+        "client_count": 4,
+        "access_density": 0.344
+    },
+    {
+        "file_size": 1741,
+        "access_frequency": 57,
+        "client_count": 34,
+        "access_density": 0.593
+    },
+    {
+        "file_size": 608,
+        "access_frequency": 171,
+        "client_count": 10,
+        "access_density": 0.33
+    },
+    {
+        "file_size": 2613,
+        "access_frequency": 58,
+        "client_count": 2,
+        "access_density": 0.48
+    },
+    {
+        "file_size": 4347,
+        "access_frequency": 84,
+        "client_count": 17,
+        "access_density": 0.328
+    },
+    {
+        "file_size": 1702,
+        "access_frequency": 79,
+        "client_count": 37,
+        "access_density": 0.256
+    },
+    {
+        "file_size": 4363,
+        "access_frequency": 79,
+        "client_count": 9,
+        "access_density": 0.986
+    },
+    {
+        "file_size": 370,
+        "access_frequency": 50,
+        "client_count": 29,
+        "access_density": 0.463
+    },
+    {
+        "file_size": 1933,
+        "access_frequency": 135,
+        "client_count": 39,
+        "access_density": 0.689
+    },
+    {
+        "file_size": 3012,
+        "access_frequency": 172,
+        "client_count": 11,
+        "access_density": 0.777
+    },
+    {
+        "file_size": 214,
+        "access_frequency": 18,
+        "client_count": 44,
+        "access_density": 0.207
+    },
+    {
+        "file_size": 1027,
+        "access_frequency": 24,
+        "client_count": 31,
+        "access_density": 0.863
+    },
+    {
+        "file_size": 3027,
+        "access_frequency": 26,
+        "client_count": 47,
+        "access_density": 0.419
+    },
+    {
+        "file_size": 2559,
+        "access_frequency": 43,
+        "client_count": 9,
+        "access_density": 0.26
+    },
+    {
+        "file_size": 4535,
+        "access_frequency": 37,
+        "client_count": 30,
+        "access_density": 0.999
+    },
+    {
+        "file_size": 3525,
+        "access_frequency": 62,
+        "client_count": 40,
+        "access_density": 0.383
+    },
+    {
+        "file_size": 3028,
+        "access_frequency": 199,
+        "client_count": 40,
+        "access_density": 0.113
+    },
+    {
+        "file_size": 4522,
+        "access_frequency": 197,
+        "client_count": 26,
+        "access_density": 0.192
+    },
+    {
+        "file_size": 3630,
+        "access_frequency": 4,
+        "client_count": 4,
+        "access_density": 0.389
+    },
+    {
+        "file_size": 780,
+        "access_frequency": 30,
+        "client_count": 38,
+        "access_density": 0.873
+    },
+    {
+        "file_size": 3128,
+        "access_frequency": 27,
+        "client_count": 45,
+        "access_density": 0.625
+    },
+    {
+        "file_size": 3703,
+        "access_frequency": 125,
+        "client_count": 29,
+        "access_density": 0.42
+    },
+    {
+        "file_size": 4570,
+        "access_frequency": 133,
+        "client_count": 38,
+        "access_density": 0.534
+    },
+    {
+        "file_size": 1037,
+        "access_frequency": 89,
+        "client_count": 49,
+        "access_density": 0.137
+    },
+    {
+        "file_size": 1841,
+        "access_frequency": 88,
+        "client_count": 48,
+        "access_density": 0.534
+    },
+    {
+        "file_size": 3753,
+        "access_frequency": 38,
+        "client_count": 25,
+        "access_density": 0.169
+    },
+    {
+        "file_size": 869,
+        "access_frequency": 142,
+        "client_count": 24,
+        "access_density": 0.778
+    },
+    {
+        "file_size": 1984,
+        "access_frequency": 190,
+        "client_count": 44,
+        "access_density": 0.934
+    },
+    {
+        "file_size": 1627,
+        "access_frequency": 69,
+        "client_count": 35,
+        "access_density": 0.166
+    },
+    {
+        "file_size": 4732,
+        "access_frequency": 102,
+        "client_count": 14,
+        "access_density": 0.767
+    },
+    {
+        "file_size": 517,
+        "access_frequency": 184,
+        "client_count": 5,
+        "access_density": 0.612
+    },
+    {
+        "file_size": 155,
+        "access_frequency": 69,
+        "client_count": 6,
+        "access_density": 0.292
+    },
+    {
+        "file_size": 3858,
+        "access_frequency": 136,
+        "client_count": 35,
+        "access_density": 0.564
+    },
+    {
+        "file_size": 1550,
+        "access_frequency": 48,
+        "client_count": 1,
+        "access_density": 0.741
+    },
+    {
+        "file_size": 349,
+        "access_frequency": 5,
+        "client_count": 43,
+        "access_density": 0.891
+    },
+    {
+        "file_size": 3440,
+        "access_frequency": 107,
+        "client_count": 16,
+        "access_density": 0.794
+    },
+    {
+        "file_size": 4318,
+        "access_frequency": 15,
+        "client_count": 36,
+        "access_density": 0.276
+    },
+    {
+        "file_size": 1448,
+        "access_frequency": 90,
+        "client_count": 32,
+        "access_density": 0.646
+    },
+    {
+        "file_size": 3027,
+        "access_frequency": 163,
+        "client_count": 39,
+        "access_density": 0.57
+    },
+    {
+        "file_size": 4456,
+        "access_frequency": 182,
+        "client_count": 13,
+        "access_density": 0.662
+    },
+    {
+        "file_size": 3762,
+        "access_frequency": 11,
+        "client_count": 8,
+        "access_density": 0.892
+    },
+    {
+        "file_size": 1010,
+        "access_frequency": 35,
+        "client_count": 19,
+        "access_density": 0.212
+    },
+    {
+        "file_size": 4290,
+        "access_frequency": 192,
+        "client_count": 28,
+        "access_density": 0.991
+    },
+    {
+        "file_size": 1199,
+        "access_frequency": 72,
+        "client_count": 11,
+        "access_density": 0.84
+    },
+    {
+        "file_size": 1890,
+        "access_frequency": 161,
+        "client_count": 35,
+        "access_density": 0.235
+    },
+    {
+        "file_size": 298,
+        "access_frequency": 176,
+        "client_count": 21,
+        "access_density": 0.554
+    },
+    {
+        "file_size": 4154,
+        "access_frequency": 30,
+        "client_count": 48,
+        "access_density": 0.957
+    },
+    {
+        "file_size": 1182,
+        "access_frequency": 91,
+        "client_count": 8,
+        "access_density": 0.806
+    },
+    {
+        "file_size": 1456,
+        "access_frequency": 42,
+        "client_count": 4,
+        "access_density": 0.688
+    },
+    {
+        "file_size": 4914,
+        "access_frequency": 180,
+        "client_count": 11,
+        "access_density": 0.649
+    },
+    {
+        "file_size": 3416,
+        "access_frequency": 122,
+        "client_count": 48,
+        "access_density": 0.856
+    },
+    {
+        "file_size": 4263,
+        "access_frequency": 34,
+        "client_count": 16,
+        "access_density": 0.485
+    },
+    {
+        "file_size": 4674,
+        "access_frequency": 145,
+        "client_count": 35,
+        "access_density": 0.824
+    },
+    {
+        "file_size": 3160,
+        "access_frequency": 20,
+        "client_count": 39,
+        "access_density": 0.37
+    },
+    {
+        "file_size": 2378,
+        "access_frequency": 146,
+        "client_count": 4,
+        "access_density": 0.85
+    },
+    {
+        "file_size": 3749,
+        "access_frequency": 187,
+        "client_count": 4,
+        "access_density": 0.553
+    },
+    {
+        "file_size": 638,
+        "access_frequency": 54,
+        "client_count": 22,
+        "access_density": 0.641
+    },
+    {
+        "file_size": 2655,
+        "access_frequency": 160,
+        "client_count": 1,
+        "access_density": 0.117
+    },
+    {
+        "file_size": 1962,
+        "access_frequency": 15,
+        "client_count": 30,
+        "access_density": 0.795
+    },
+    {
+        "file_size": 2897,
+        "access_frequency": 170,
+        "client_count": 35,
+        "access_density": 0.698
+    },
+    {
+        "file_size": 1559,
+        "access_frequency": 176,
+        "client_count": 17,
+        "access_density": 0.658
+    },
+    {
+        "file_size": 253,
+        "access_frequency": 32,
+        "client_count": 36,
+        "access_density": 0.44
+    },
+    {
+        "file_size": 1145,
+        "access_frequency": 92,
+        "client_count": 39,
+        "access_density": 0.756
+    },
+    {
+        "file_size": 1454,
+        "access_frequency": 78,
+        "client_count": 44,
+        "access_density": 0.802
+    },
+    {
+        "file_size": 2314,
+        "access_frequency": 90,
+        "client_count": 27,
+        "access_density": 0.99
+    },
+    {
+        "file_size": 840,
+        "access_frequency": 91,
+        "client_count": 22,
+        "access_density": 0.404
+    },
+    {
+        "file_size": 1152,
+        "access_frequency": 56,
+        "client_count": 47,
+        "access_density": 0.832
+    },
+    {
+        "file_size": 1179,
+        "access_frequency": 156,
+        "client_count": 1,
+        "access_density": 0.642
+    },
+    {
+        "file_size": 427,
+        "access_frequency": 148,
+        "client_count": 31,
+        "access_density": 0.973
+    },
+    {
+        "file_size": 735,
+        "access_frequency": 185,
+        "client_count": 10,
+        "access_density": 0.385
+    },
+    {
+        "file_size": 2310,
+        "access_frequency": 94,
+        "client_count": 42,
+        "access_density": 0.554
+    },
+    {
+        "file_size": 1318,
+        "access_frequency": 119,
+        "client_count": 35,
+        "access_density": 0.344
+    },
+    {
+        "file_size": 2455,
+        "access_frequency": 137,
+        "client_count": 44,
+        "access_density": 0.527
+    },
+    {
+        "file_size": 2867,
+        "access_frequency": 124,
+        "client_count": 49,
+        "access_density": 0.498
+    },
+    {
+        "file_size": 425,
+        "access_frequency": 37,
+        "client_count": 6,
+        "access_density": 0.573
+    },
+    {
+        "file_size": 197,
+        "access_frequency": 189,
+        "client_count": 21,
+        "access_density": 0.108
+    },
+    {
+        "file_size": 4572,
+        "access_frequency": 141,
+        "client_count": 15,
+        "access_density": 0.55
+    },
+    {
+        "file_size": 1702,
+        "access_frequency": 139,
+        "client_count": 18,
+        "access_density": 0.926
+    },
+    {
+        "file_size": 1834,
+        "access_frequency": 99,
+        "client_count": 36,
+        "access_density": 0.42
+    },
+    {
+        "file_size": 2177,
+        "access_frequency": 63,
+        "client_count": 5,
+        "access_density": 0.445
+    },
+    {
+        "file_size": 768,
+        "access_frequency": 169,
+        "client_count": 3,
+        "access_density": 0.857
+    },
+    {
+        "file_size": 4162,
+        "access_frequency": 54,
+        "client_count": 22,
+        "access_density": 0.441
+    },
+    {
+        "file_size": 3332,
+        "access_frequency": 169,
+        "client_count": 5,
+        "access_density": 0.479
+    },
+    {
+        "file_size": 2007,
+        "access_frequency": 18,
+        "client_count": 10,
+        "access_density": 0.153
+    },
+    {
+        "file_size": 3960,
+        "access_frequency": 2,
+        "client_count": 49,
+        "access_density": 0.882
+    },
+    {
+        "file_size": 1553,
+        "access_frequency": 50,
+        "client_count": 11,
+        "access_density": 0.331
+    },
+    {
+        "file_size": 3521,
+        "access_frequency": 174,
+        "client_count": 22,
+        "access_density": 0.4
+    },
+    {
+        "file_size": 1340,
+        "access_frequency": 93,
+        "client_count": 40,
+        "access_density": 0.368
+    },
+    {
+        "file_size": 1320,
+        "access_frequency": 197,
+        "client_count": 38,
+        "access_density": 0.225
+    },
+    {
+        "file_size": 3749,
+        "access_frequency": 171,
+        "client_count": 1,
+        "access_density": 0.741
+    },
+    {
+        "file_size": 2817,
+        "access_frequency": 47,
+        "client_count": 46,
+        "access_density": 0.754
+    },
+    {
+        "file_size": 4873,
+        "access_frequency": 199,
+        "client_count": 13,
+        "access_density": 0.816
+    },
+    {
+        "file_size": 2639,
+        "access_frequency": 11,
+        "client_count": 20,
+        "access_density": 0.329
+    },
+    {
+        "file_size": 300,
+        "access_frequency": 34,
+        "client_count": 25,
+        "access_density": 0.643
+    },
+    {
+        "file_size": 1976,
+        "access_frequency": 171,
+        "client_count": 45,
+        "access_density": 0.554
+    },
+    {
+        "file_size": 722,
+        "access_frequency": 190,
+        "client_count": 26,
+        "access_density": 0.559
+    },
+    {
+        "file_size": 1234,
+        "access_frequency": 64,
+        "client_count": 17,
+        "access_density": 0.711
+    },
+    {
+        "file_size": 3598,
+        "access_frequency": 9,
+        "client_count": 34,
+        "access_density": 0.501
+    },
+    {
+        "file_size": 1599,
+        "access_frequency": 150,
+        "client_count": 19,
+        "access_density": 0.108
+    },
+    {
+        "file_size": 3541,
+        "access_frequency": 136,
+        "client_count": 29,
+        "access_density": 0.993
+    },
+    {
+        "file_size": 2076,
+        "access_frequency": 153,
+        "client_count": 6,
+        "access_density": 0.502
+    },
+    {
+        "file_size": 3068,
+        "access_frequency": 153,
+        "client_count": 50,
+        "access_density": 0.435
+    },
+    {
+        "file_size": 4030,
+        "access_frequency": 145,
+        "client_count": 9,
+        "access_density": 0.685
+    },
+    {
+        "file_size": 334,
+        "access_frequency": 21,
+        "client_count": 3,
+        "access_density": 0.678
+    },
+    {
+        "file_size": 4960,
+        "access_frequency": 181,
+        "client_count": 29,
+        "access_density": 0.299
+    },
+    {
+        "file_size": 894,
+        "access_frequency": 110,
+        "client_count": 12,
+        "access_density": 0.428
+    },
+    {
+        "file_size": 4423,
+        "access_frequency": 86,
+        "client_count": 13,
+        "access_density": 0.339
+    },
+    {
+        "file_size": 1806,
+        "access_frequency": 114,
+        "client_count": 7,
+        "access_density": 0.576
+    },
+    {
+        "file_size": 3887,
+        "access_frequency": 177,
+        "client_count": 39,
+        "access_density": 0.491
+    },
+    {
+        "file_size": 174,
+        "access_frequency": 75,
+        "client_count": 50,
+        "access_density": 0.877
+    },
+    {
+        "file_size": 3556,
+        "access_frequency": 130,
+        "client_count": 22,
+        "access_density": 0.296
+    },
+    {
+        "file_size": 495,
+        "access_frequency": 165,
+        "client_count": 49,
+        "access_density": 0.54
+    },
+    {
+        "file_size": 1443,
+        "access_frequency": 95,
+        "client_count": 49,
+        "access_density": 0.42
+    },
+    {
+        "file_size": 2258,
+        "access_frequency": 109,
+        "client_count": 2,
+        "access_density": 0.146
+    },
+    {
+        "file_size": 3276,
+        "access_frequency": 8,
+        "client_count": 8,
+        "access_density": 0.105
+    },
+    {
+        "file_size": 2614,
+        "access_frequency": 193,
+        "client_count": 45,
+        "access_density": 0.997
+    },
+    {
+        "file_size": 856,
+        "access_frequency": 198,
+        "client_count": 25,
+        "access_density": 0.103
+    },
+    {
+        "file_size": 597,
+        "access_frequency": 153,
+        "client_count": 33,
+        "access_density": 0.245
+    },
+    {
+        "file_size": 846,
+        "access_frequency": 183,
+        "client_count": 49,
+        "access_density": 0.633
+    },
+    {
+        "file_size": 4817,
+        "access_frequency": 169,
+        "client_count": 15,
+        "access_density": 0.407
+    },
+    {
+        "file_size": 1147,
+        "access_frequency": 32,
+        "client_count": 47,
+        "access_density": 0.235
+    },
+    {
+        "file_size": 4792,
+        "access_frequency": 33,
+        "client_count": 45,
+        "access_density": 0.362
+    },
+    {
+        "file_size": 3546,
+        "access_frequency": 31,
+        "client_count": 16,
+        "access_density": 0.606
+    },
+    {
+        "file_size": 332,
+        "access_frequency": 41,
+        "client_count": 41,
+        "access_density": 0.177
+    },
+    {
+        "file_size": 1454,
+        "access_frequency": 187,
+        "client_count": 46,
+        "access_density": 0.759
+    },
+    {
+        "file_size": 109,
+        "access_frequency": 6,
+        "client_count": 44,
+        "access_density": 0.65
+    },
+    {
+        "file_size": 4570,
+        "access_frequency": 162,
+        "client_count": 17,
+        "access_density": 0.263
+    },
+    {
+        "file_size": 732,
+        "access_frequency": 67,
+        "client_count": 17,
+        "access_density": 0.838
+    },
+    {
+        "file_size": 4361,
+        "access_frequency": 67,
+        "client_count": 9,
+        "access_density": 0.709
+    },
+    {
+        "file_size": 4547,
+        "access_frequency": 126,
+        "client_count": 24,
+        "access_density": 0.19
+    },
+    {
+        "file_size": 3908,
+        "access_frequency": 68,
+        "client_count": 10,
+        "access_density": 0.494
+    },
+    {
+        "file_size": 3733,
+        "access_frequency": 119,
+        "client_count": 17,
+        "access_density": 0.356
+    },
+    {
+        "file_size": 2610,
+        "access_frequency": 23,
+        "client_count": 41,
+        "access_density": 0.112
+    },
+    {
+        "file_size": 2261,
+        "access_frequency": 68,
+        "client_count": 17,
+        "access_density": 0.332
+    },
+    {
+        "file_size": 1760,
+        "access_frequency": 183,
+        "client_count": 26,
+        "access_density": 0.769
+    },
+    {
+        "file_size": 4173,
+        "access_frequency": 68,
+        "client_count": 32,
+        "access_density": 0.378
+    },
+    {
+        "file_size": 4132,
+        "access_frequency": 54,
+        "client_count": 6,
+        "access_density": 0.931
+    },
+    {
+        "file_size": 4227,
+        "access_frequency": 14,
+        "client_count": 42,
+        "access_density": 0.424
+    },
+    {
+        "file_size": 1307,
+        "access_frequency": 149,
+        "client_count": 8,
+        "access_density": 0.507
+    },
+    {
+        "file_size": 3858,
+        "access_frequency": 27,
+        "client_count": 31,
+        "access_density": 0.42
+    },
+    {
+        "file_size": 2127,
+        "access_frequency": 64,
+        "client_count": 23,
+        "access_density": 0.353
+    },
+    {
+        "file_size": 1837,
+        "access_frequency": 14,
+        "client_count": 45,
+        "access_density": 0.445
+    },
+    {
+        "file_size": 3652,
+        "access_frequency": 143,
+        "client_count": 28,
+        "access_density": 0.702
+    },
+    {
+        "file_size": 4275,
+        "access_frequency": 68,
+        "client_count": 7,
+        "access_density": 0.863
+    },
+    {
+        "file_size": 2797,
+        "access_frequency": 168,
+        "client_count": 10,
+        "access_density": 0.402
+    },
+    {
+        "file_size": 3397,
+        "access_frequency": 192,
+        "client_count": 36,
+        "access_density": 0.437
+    },
+    {
+        "file_size": 2281,
+        "access_frequency": 64,
+        "client_count": 22,
+        "access_density": 0.655
+    },
+    {
+        "file_size": 575,
+        "access_frequency": 49,
+        "client_count": 26,
+        "access_density": 0.404
+    },
+    {
+        "file_size": 4603,
+        "access_frequency": 76,
+        "client_count": 43,
+        "access_density": 0.521
+    },
+    {
+        "file_size": 2548,
+        "access_frequency": 92,
+        "client_count": 50,
+        "access_density": 0.638
+    },
+    {
+        "file_size": 1361,
+        "access_frequency": 145,
+        "client_count": 37,
+        "access_density": 0.41
+    },
+    {
+        "file_size": 3706,
+        "access_frequency": 109,
+        "client_count": 37,
+        "access_density": 0.3
+    },
+    {
+        "file_size": 3168,
+        "access_frequency": 136,
+        "client_count": 20,
+        "access_density": 0.592
+    },
+    {
+        "file_size": 4969,
+        "access_frequency": 160,
+        "client_count": 4,
+        "access_density": 0.839
+    },
+    {
+        "file_size": 1725,
+        "access_frequency": 93,
+        "client_count": 49,
+        "access_density": 0.919
+    },
+    {
+        "file_size": 2967,
+        "access_frequency": 149,
+        "client_count": 20,
+        "access_density": 0.233
+    },
+    {
+        "file_size": 898,
+        "access_frequency": 147,
+        "client_count": 49,
+        "access_density": 0.327
+    },
+    {
+        "file_size": 3529,
+        "access_frequency": 185,
+        "client_count": 38,
+        "access_density": 0.394
+    },
+    {
+        "file_size": 858,
+        "access_frequency": 68,
+        "client_count": 44,
+        "access_density": 0.768
+    },
+    {
+        "file_size": 1364,
+        "access_frequency": 192,
+        "client_count": 8,
+        "access_density": 0.697
+    },
+    {
+        "file_size": 3877,
+        "access_frequency": 194,
+        "client_count": 8,
+        "access_density": 0.954
+    },
+    {
+        "file_size": 1895,
+        "access_frequency": 72,
+        "client_count": 37,
+        "access_density": 0.456
+    },
+    {
+        "file_size": 3717,
+        "access_frequency": 199,
+        "client_count": 42,
+        "access_density": 0.537
+    },
+    {
+        "file_size": 778,
+        "access_frequency": 138,
+        "client_count": 40,
+        "access_density": 0.933
+    },
+    {
+        "file_size": 3449,
+        "access_frequency": 11,
+        "client_count": 33,
+        "access_density": 0.197
+    },
+    {
+        "file_size": 4284,
+        "access_frequency": 194,
+        "client_count": 1,
+        "access_density": 0.625
+    },
+    {
+        "file_size": 2138,
+        "access_frequency": 47,
+        "client_count": 4,
+        "access_density": 0.104
+    },
+    {
+        "file_size": 2917,
+        "access_frequency": 166,
+        "client_count": 11,
+        "access_density": 0.547
+    },
+    {
+        "file_size": 4260,
+        "access_frequency": 17,
+        "client_count": 47,
+        "access_density": 0.121
+    },
+    {
+        "file_size": 208,
+        "access_frequency": 191,
+        "client_count": 8,
+        "access_density": 0.373
+    },
+    {
+        "file_size": 1610,
+        "access_frequency": 189,
+        "client_count": 3,
+        "access_density": 0.135
+    },
+    {
+        "file_size": 1679,
+        "access_frequency": 73,
+        "client_count": 24,
+        "access_density": 0.394
+    },
+    {
+        "file_size": 2141,
+        "access_frequency": 129,
+        "client_count": 18,
+        "access_density": 0.111
+    },
+    {
+        "file_size": 417,
+        "access_frequency": 188,
+        "client_count": 25,
+        "access_density": 0.233
+    },
+    {
+        "file_size": 3389,
+        "access_frequency": 16,
+        "client_count": 36,
+        "access_density": 0.844
+    },
+    {
+        "file_size": 4688,
+        "access_frequency": 108,
+        "client_count": 8,
+        "access_density": 0.532
+    },
+    {
+        "file_size": 2568,
+        "access_frequency": 199,
+        "client_count": 7,
+        "access_density": 0.99
+    },
+    {
+        "file_size": 1833,
+        "access_frequency": 167,
+        "client_count": 2,
+        "access_density": 0.854
+    },
+    {
+        "file_size": 3583,
+        "access_frequency": 132,
+        "client_count": 3,
+        "access_density": 0.78
+    },
+    {
+        "file_size": 1802,
+        "access_frequency": 178,
+        "client_count": 4,
+        "access_density": 0.454
+    },
+    {
+        "file_size": 2788,
+        "access_frequency": 89,
+        "client_count": 10,
+        "access_density": 0.271
+    },
+    {
+        "file_size": 2182,
+        "access_frequency": 181,
+        "client_count": 28,
+        "access_density": 0.849
+    },
+    {
+        "file_size": 2975,
+        "access_frequency": 127,
+        "client_count": 3,
+        "access_density": 0.624
+    },
+    {
+        "file_size": 2154,
+        "access_frequency": 84,
+        "client_count": 3,
+        "access_density": 0.786
+    },
+    {
+        "file_size": 324,
+        "access_frequency": 92,
+        "client_count": 43,
+        "access_density": 0.769
+    },
+    {
+        "file_size": 196,
+        "access_frequency": 167,
+        "client_count": 35,
+        "access_density": 0.849
+    },
+    {
+        "file_size": 2834,
+        "access_frequency": 174,
+        "client_count": 17,
+        "access_density": 0.519
+    },
+    {
+        "file_size": 2200,
+        "access_frequency": 80,
+        "client_count": 33,
+        "access_density": 0.765
+    },
+    {
+        "file_size": 3172,
+        "access_frequency": 177,
+        "client_count": 48,
+        "access_density": 0.145
+    },
+    {
+        "file_size": 2824,
+        "access_frequency": 115,
+        "client_count": 6,
+        "access_density": 0.816
+    },
+    {
+        "file_size": 1919,
+        "access_frequency": 140,
+        "client_count": 42,
+        "access_density": 0.832
+    },
+    {
+        "file_size": 1195,
+        "access_frequency": 172,
+        "client_count": 43,
+        "access_density": 0.242
+    },
+    {
+        "file_size": 4541,
+        "access_frequency": 172,
+        "client_count": 36,
+        "access_density": 0.66
+    },
+    {
+        "file_size": 2687,
+        "access_frequency": 83,
+        "client_count": 11,
+        "access_density": 0.351
+    },
+    {
+        "file_size": 1423,
+        "access_frequency": 140,
+        "client_count": 14,
+        "access_density": 0.248
+    },
+    {
+        "file_size": 4716,
+        "access_frequency": 81,
+        "client_count": 8,
+        "access_density": 0.323
+    },
+    {
+        "file_size": 4823,
+        "access_frequency": 191,
+        "client_count": 30,
+        "access_density": 0.985
+    },
+    {
+        "file_size": 781,
+        "access_frequency": 60,
+        "client_count": 4,
+        "access_density": 0.659
+    },
+    {
+        "file_size": 3770,
+        "access_frequency": 105,
+        "client_count": 43,
+        "access_density": 0.17
+    },
+    {
+        "file_size": 393,
+        "access_frequency": 32,
+        "client_count": 39,
+        "access_density": 0.32
+    },
+    {
+        "file_size": 1175,
+        "access_frequency": 108,
+        "client_count": 36,
+        "access_density": 0.159
+    },
+    {
+        "file_size": 4673,
+        "access_frequency": 169,
+        "client_count": 24,
+        "access_density": 0.286
+    },
+    {
+        "file_size": 2127,
+        "access_frequency": 149,
+        "client_count": 21,
+        "access_density": 0.276
+    },
+    {
+        "file_size": 2425,
+        "access_frequency": 11,
+        "client_count": 17,
+        "access_density": 0.627
+    },
+    {
+        "file_size": 1522,
+        "access_frequency": 183,
+        "client_count": 31,
+        "access_density": 0.149
+    },
+    {
+        "file_size": 2347,
+        "access_frequency": 179,
+        "client_count": 10,
+        "access_density": 0.944
+    },
+    {
+        "file_size": 947,
+        "access_frequency": 98,
+        "client_count": 50,
+        "access_density": 0.854
+    },
+    {
+        "file_size": 4016,
+        "access_frequency": 52,
+        "client_count": 44,
+        "access_density": 0.221
+    },
+    {
+        "file_size": 1968,
+        "access_frequency": 172,
+        "client_count": 41,
+        "access_density": 0.499
+    },
+    {
+        "file_size": 282,
+        "access_frequency": 15,
+        "client_count": 6,
+        "access_density": 0.404
+    },
+    {
+        "file_size": 983,
+        "access_frequency": 89,
+        "client_count": 39,
+        "access_density": 0.152
+    },
+    {
+        "file_size": 2612,
+        "access_frequency": 43,
+        "client_count": 13,
+        "access_density": 0.48
+    },
+    {
+        "file_size": 4253,
+        "access_frequency": 157,
+        "client_count": 40,
+        "access_density": 0.289
+    },
+    {
+        "file_size": 2733,
+        "access_frequency": 6,
+        "client_count": 9,
+        "access_density": 0.284
+    },
+    {
+        "file_size": 3036,
+        "access_frequency": 24,
+        "client_count": 31,
+        "access_density": 0.482
+    },
+    {
+        "file_size": 744,
+        "access_frequency": 68,
+        "client_count": 32,
+        "access_density": 0.639
+    },
+    {
+        "file_size": 3153,
+        "access_frequency": 22,
+        "client_count": 40,
+        "access_density": 0.674
+    },
+    {
+        "file_size": 2378,
+        "access_frequency": 169,
+        "client_count": 33,
+        "access_density": 0.657
+    },
+    {
+        "file_size": 2850,
+        "access_frequency": 78,
+        "client_count": 18,
+        "access_density": 0.509
+    },
+    {
+        "file_size": 3750,
+        "access_frequency": 190,
+        "client_count": 13,
+        "access_density": 0.598
+    },
+    {
+        "file_size": 4300,
+        "access_frequency": 122,
+        "client_count": 44,
+        "access_density": 0.491
+    },
+    {
+        "file_size": 3763,
+        "access_frequency": 115,
+        "client_count": 9,
+        "access_density": 0.207
+    },
+    {
+        "file_size": 1938,
+        "access_frequency": 5,
+        "client_count": 32,
+        "access_density": 0.979
+    },
+    {
+        "file_size": 3405,
+        "access_frequency": 190,
+        "client_count": 2,
+        "access_density": 0.498
+    },
+    {
+        "file_size": 4708,
+        "access_frequency": 158,
+        "client_count": 20,
+        "access_density": 0.555
+    },
+    {
+        "file_size": 4125,
+        "access_frequency": 90,
+        "client_count": 19,
+        "access_density": 0.855
+    },
+    {
+        "file_size": 2533,
+        "access_frequency": 130,
+        "client_count": 11,
+        "access_density": 0.153
+    },
+    {
+        "file_size": 4124,
+        "access_frequency": 28,
+        "client_count": 10,
+        "access_density": 0.262
+    },
+    {
+        "file_size": 1950,
+        "access_frequency": 163,
+        "client_count": 17,
+        "access_density": 0.6
+    },
+    {
+        "file_size": 2962,
+        "access_frequency": 38,
+        "client_count": 29,
+        "access_density": 0.9
+    },
+    {
+        "file_size": 3744,
+        "access_frequency": 77,
+        "client_count": 25,
+        "access_density": 0.412
+    },
+    {
+        "file_size": 1005,
+        "access_frequency": 93,
+        "client_count": 35,
+        "access_density": 0.443
+    },
+    {
+        "file_size": 3101,
+        "access_frequency": 21,
+        "client_count": 14,
+        "access_density": 0.397
+    },
+    {
+        "file_size": 2722,
+        "access_frequency": 63,
+        "client_count": 21,
+        "access_density": 0.776
+    },
+    {
+        "file_size": 1142,
+        "access_frequency": 36,
+        "client_count": 9,
+        "access_density": 0.211
+    },
+    {
+        "file_size": 1752,
+        "access_frequency": 126,
+        "client_count": 11,
+        "access_density": 0.762
+    },
+    {
+        "file_size": 2918,
+        "access_frequency": 53,
+        "client_count": 5,
+        "access_density": 0.421
+    },
+    {
+        "file_size": 1522,
+        "access_frequency": 53,
+        "client_count": 6,
+        "access_density": 0.701
+    },
+    {
+        "file_size": 1075,
+        "access_frequency": 66,
+        "client_count": 37,
+        "access_density": 0.9
+    },
+    {
+        "file_size": 3954,
+        "access_frequency": 54,
+        "client_count": 7,
+        "access_density": 0.337
+    },
+    {
+        "file_size": 3731,
+        "access_frequency": 52,
+        "client_count": 34,
+        "access_density": 0.613
+    },
+    {
+        "file_size": 1649,
+        "access_frequency": 167,
+        "client_count": 7,
+        "access_density": 0.955
+    },
+    {
+        "file_size": 4403,
+        "access_frequency": 8,
+        "client_count": 22,
+        "access_density": 0.686
+    },
+    {
+        "file_size": 2429,
+        "access_frequency": 175,
+        "client_count": 34,
+        "access_density": 0.399
+    },
+    {
+        "file_size": 1837,
+        "access_frequency": 66,
+        "client_count": 7,
+        "access_density": 0.754
+    },
+    {
+        "file_size": 2161,
+        "access_frequency": 126,
+        "client_count": 26,
+        "access_density": 0.83
+    },
+    {
+        "file_size": 2105,
+        "access_frequency": 113,
+        "client_count": 34,
+        "access_density": 0.523
+    },
+    {
+        "file_size": 1747,
+        "access_frequency": 101,
+        "client_count": 31,
+        "access_density": 0.858
+    },
+    {
+        "file_size": 3661,
+        "access_frequency": 108,
+        "client_count": 13,
+        "access_density": 0.581
+    },
+    {
+        "file_size": 117,
+        "access_frequency": 27,
+        "client_count": 28,
+        "access_density": 0.417
+    },
+    {
+        "file_size": 3487,
+        "access_frequency": 51,
+        "client_count": 14,
+        "access_density": 0.125
+    },
+    {
+        "file_size": 565,
+        "access_frequency": 79,
+        "client_count": 3,
+        "access_density": 0.254
+    },
+    {
+        "file_size": 473,
+        "access_frequency": 60,
+        "client_count": 16,
+        "access_density": 0.2
+    },
+    {
+        "file_size": 3326,
+        "access_frequency": 122,
+        "client_count": 37,
+        "access_density": 0.742
+    },
+    {
+        "file_size": 1168,
+        "access_frequency": 98,
+        "client_count": 35,
+        "access_density": 0.205
+    },
+    {
+        "file_size": 702,
+        "access_frequency": 192,
+        "client_count": 42,
+        "access_density": 0.661
+    },
+    {
+        "file_size": 1087,
+        "access_frequency": 143,
+        "client_count": 32,
+        "access_density": 0.431
+    },
+    {
+        "file_size": 898,
+        "access_frequency": 148,
+        "client_count": 10,
+        "access_density": 0.502
+    },
+    {
+        "file_size": 3832,
+        "access_frequency": 58,
+        "client_count": 8,
+        "access_density": 0.863
+    },
+    {
+        "file_size": 3504,
+        "access_frequency": 184,
+        "client_count": 18,
+        "access_density": 0.891
+    },
+    {
+        "file_size": 4169,
+        "access_frequency": 195,
+        "client_count": 29,
+        "access_density": 0.848
+    },
+    {
+        "file_size": 2528,
+        "access_frequency": 23,
+        "client_count": 5,
+        "access_density": 0.15
+    },
+    {
+        "file_size": 1788,
+        "access_frequency": 98,
+        "client_count": 24,
+        "access_density": 0.886
+    },
+    {
+        "file_size": 4043,
+        "access_frequency": 3,
+        "client_count": 1,
+        "access_density": 0.14
+    },
+    {
+        "file_size": 3843,
+        "access_frequency": 174,
+        "client_count": 3,
+        "access_density": 0.702
+    },
+    {
+        "file_size": 4332,
+        "access_frequency": 18,
+        "client_count": 13,
+        "access_density": 0.496
+    },
+    {
+        "file_size": 3549,
+        "access_frequency": 122,
+        "client_count": 11,
+        "access_density": 0.609
+    },
+    {
+        "file_size": 2103,
+        "access_frequency": 128,
+        "client_count": 40,
+        "access_density": 0.16
+    },
+    {
+        "file_size": 2164,
+        "access_frequency": 8,
+        "client_count": 23,
+        "access_density": 0.571
+    },
+    {
+        "file_size": 3887,
+        "access_frequency": 80,
+        "client_count": 17,
+        "access_density": 0.667
+    },
+    {
+        "file_size": 725,
+        "access_frequency": 73,
+        "client_count": 30,
+        "access_density": 0.954
+    },
+    {
+        "file_size": 772,
+        "access_frequency": 85,
+        "client_count": 34,
+        "access_density": 0.537
+    },
+    {
+        "file_size": 2968,
+        "access_frequency": 179,
+        "client_count": 34,
+        "access_density": 0.644
+    },
+    {
+        "file_size": 1436,
+        "access_frequency": 181,
+        "client_count": 12,
+        "access_density": 0.383
+    },
+    {
+        "file_size": 1013,
+        "access_frequency": 77,
+        "client_count": 46,
+        "access_density": 0.151
+    },
+    {
+        "file_size": 3409,
+        "access_frequency": 5,
+        "client_count": 23,
+        "access_density": 0.648
+    },
+    {
+        "file_size": 2900,
+        "access_frequency": 71,
+        "client_count": 26,
+        "access_density": 0.852
+    },
+    {
+        "file_size": 2842,
+        "access_frequency": 159,
+        "client_count": 41,
+        "access_density": 0.916
+    },
+    {
+        "file_size": 2326,
+        "access_frequency": 71,
+        "client_count": 9,
+        "access_density": 0.718
+    },
+    {
+        "file_size": 1873,
+        "access_frequency": 29,
+        "client_count": 40,
+        "access_density": 0.292
+    },
+    {
+        "file_size": 3174,
+        "access_frequency": 123,
+        "client_count": 10,
+        "access_density": 0.663
+    },
+    {
+        "file_size": 818,
+        "access_frequency": 131,
+        "client_count": 5,
+        "access_density": 0.533
+    },
+    {
+        "file_size": 2037,
+        "access_frequency": 78,
+        "client_count": 35,
+        "access_density": 0.434
+    },
+    {
+        "file_size": 3036,
+        "access_frequency": 185,
+        "client_count": 37,
+        "access_density": 0.821
+    },
+    {
+        "file_size": 1578,
+        "access_frequency": 79,
+        "client_count": 41,
+        "access_density": 0.396
+    },
+    {
+        "file_size": 1933,
+        "access_frequency": 58,
+        "client_count": 39,
+        "access_density": 0.934
+    },
+    {
+        "file_size": 1698,
+        "access_frequency": 17,
+        "client_count": 39,
+        "access_density": 0.359
+    },
+    {
+        "file_size": 2683,
+        "access_frequency": 191,
+        "client_count": 25,
+        "access_density": 0.398
+    },
+    {
+        "file_size": 486,
+        "access_frequency": 170,
+        "client_count": 2,
+        "access_density": 0.819
+    },
+    {
+        "file_size": 2796,
+        "access_frequency": 56,
+        "client_count": 22,
+        "access_density": 0.646
+    },
+    {
+        "file_size": 2226,
+        "access_frequency": 39,
+        "client_count": 44,
+        "access_density": 0.276
+    },
+    {
+        "file_size": 2291,
+        "access_frequency": 54,
+        "client_count": 36,
+        "access_density": 0.384
+    },
+    {
+        "file_size": 4629,
+        "access_frequency": 2,
+        "client_count": 2,
+        "access_density": 0.702
+    },
+    {
+        "file_size": 420,
+        "access_frequency": 83,
+        "client_count": 17,
+        "access_density": 0.422
+    },
+    {
+        "file_size": 1692,
+        "access_frequency": 103,
+        "client_count": 50,
+        "access_density": 0.486
+    },
+    {
+        "file_size": 1602,
+        "access_frequency": 151,
+        "client_count": 38,
+        "access_density": 0.616
+    },
+    {
+        "file_size": 2229,
+        "access_frequency": 132,
+        "client_count": 38,
+        "access_density": 0.774
+    },
+    {
+        "file_size": 1241,
+        "access_frequency": 119,
+        "client_count": 41,
+        "access_density": 0.76
+    },
+    {
+        "file_size": 3552,
+        "access_frequency": 6,
+        "client_count": 47,
+        "access_density": 0.488
+    },
+    {
+        "file_size": 1029,
+        "access_frequency": 4,
+        "client_count": 45,
+        "access_density": 0.125
+    },
+    {
+        "file_size": 2614,
+        "access_frequency": 130,
+        "client_count": 25,
+        "access_density": 0.689
+    },
+    {
+        "file_size": 2957,
+        "access_frequency": 90,
+        "client_count": 16,
+        "access_density": 0.761
+    },
+    {
+        "file_size": 737,
+        "access_frequency": 6,
+        "client_count": 41,
+        "access_density": 0.177
+    },
+    {
+        "file_size": 319,
+        "access_frequency": 164,
+        "client_count": 42,
+        "access_density": 0.567
+    },
+    {
+        "file_size": 1835,
+        "access_frequency": 153,
+        "client_count": 41,
+        "access_density": 0.304
+    },
+    {
+        "file_size": 3537,
+        "access_frequency": 146,
+        "client_count": 11,
+        "access_density": 0.802
+    },
+    {
+        "file_size": 2513,
+        "access_frequency": 47,
+        "client_count": 13,
+        "access_density": 0.358
+    },
+    {
+        "file_size": 3032,
+        "access_frequency": 167,
+        "client_count": 18,
+        "access_density": 0.47
+    },
+    {
+        "file_size": 1215,
+        "access_frequency": 85,
+        "client_count": 25,
+        "access_density": 0.314
+    },
+    {
+        "file_size": 1312,
+        "access_frequency": 59,
+        "client_count": 38,
+        "access_density": 0.176
+    },
+    {
+        "file_size": 2741,
+        "access_frequency": 58,
+        "client_count": 28,
+        "access_density": 0.684
+    },
+    {
+        "file_size": 2605,
+        "access_frequency": 34,
+        "client_count": 3,
+        "access_density": 0.372
+    },
+    {
+        "file_size": 3719,
+        "access_frequency": 154,
+        "client_count": 47,
+        "access_density": 0.345
+    },
+    {
+        "file_size": 2228,
+        "access_frequency": 170,
+        "client_count": 19,
+        "access_density": 0.883
+    },
+    {
+        "file_size": 1228,
+        "access_frequency": 64,
+        "client_count": 15,
+        "access_density": 0.406
+    },
+    {
+        "file_size": 1374,
+        "access_frequency": 131,
+        "client_count": 50,
+        "access_density": 0.994
+    },
+    {
+        "file_size": 4054,
+        "access_frequency": 184,
+        "client_count": 21,
+        "access_density": 0.926
+    },
+    {
+        "file_size": 1361,
+        "access_frequency": 183,
+        "client_count": 8,
+        "access_density": 0.126
+    },
+    {
+        "file_size": 2993,
+        "access_frequency": 3,
+        "client_count": 8,
+        "access_density": 0.84
+    },
+    {
+        "file_size": 3828,
+        "access_frequency": 194,
+        "client_count": 45,
+        "access_density": 0.267
+    },
+    {
+        "file_size": 3618,
+        "access_frequency": 5,
+        "client_count": 11,
+        "access_density": 0.652
+    },
+    {
+        "file_size": 1522,
+        "access_frequency": 149,
+        "client_count": 24,
+        "access_density": 0.975
+    },
+    {
+        "file_size": 3668,
+        "access_frequency": 7,
+        "client_count": 8,
+        "access_density": 0.254
+    },
+    {
+        "file_size": 2181,
+        "access_frequency": 124,
+        "client_count": 5,
+        "access_density": 0.457
+    },
+    {
+        "file_size": 2126,
+        "access_frequency": 184,
+        "client_count": 17,
+        "access_density": 0.317
+    },
+    {
+        "file_size": 3552,
+        "access_frequency": 92,
+        "client_count": 29,
+        "access_density": 0.642
+    },
+    {
+        "file_size": 4820,
+        "access_frequency": 69,
+        "client_count": 44,
+        "access_density": 0.498
+    },
+    {
+        "file_size": 3694,
+        "access_frequency": 111,
+        "client_count": 33,
+        "access_density": 0.7
+    },
+    {
+        "file_size": 2206,
+        "access_frequency": 112,
+        "client_count": 7,
+        "access_density": 0.798
+    },
+    {
+        "file_size": 1302,
+        "access_frequency": 158,
+        "client_count": 9,
+        "access_density": 0.18
+    },
+    {
+        "file_size": 625,
+        "access_frequency": 68,
+        "client_count": 24,
+        "access_density": 0.522
+    },
+    {
+        "file_size": 1558,
+        "access_frequency": 59,
+        "client_count": 18,
+        "access_density": 0.332
+    },
+    {
+        "file_size": 625,
+        "access_frequency": 149,
+        "client_count": 8,
+        "access_density": 0.652
+    },
+    {
+        "file_size": 978,
+        "access_frequency": 181,
+        "client_count": 44,
+        "access_density": 0.524
+    },
+    {
+        "file_size": 4075,
+        "access_frequency": 139,
+        "client_count": 50,
+        "access_density": 0.57
+    },
+    {
+        "file_size": 3676,
+        "access_frequency": 16,
+        "client_count": 47,
+        "access_density": 0.645
+    },
+    {
+        "file_size": 1400,
+        "access_frequency": 186,
+        "client_count": 34,
+        "access_density": 0.414
+    },
+    {
+        "file_size": 806,
+        "access_frequency": 39,
+        "client_count": 46,
+        "access_density": 0.167
+    },
+    {
+        "file_size": 4767,
+        "access_frequency": 86,
+        "client_count": 29,
+        "access_density": 0.399
+    },
+    {
+        "file_size": 3478,
+        "access_frequency": 162,
+        "client_count": 1,
+        "access_density": 0.185
+    },
+    {
+        "file_size": 1301,
+        "access_frequency": 173,
+        "client_count": 26,
+        "access_density": 0.698
+    },
+    {
+        "file_size": 2731,
+        "access_frequency": 160,
+        "client_count": 25,
+        "access_density": 0.73
+    }
+]

@@ -1,0 +1,47 @@
+{
+    "replication_rules": [
+        {
+            "file_pattern": "*.log",
+            "target_replication": 2
+        },
+        {
+            "file_pattern": "*.txt",
+            "target_replication": 3
+        },
+        {
+            "file_pattern": "*.json",
+            "target_replication": 2
+        },
+        {
+            "file_pattern": "*.parquet",
+            "target_replication": 1
+        },
+        {
+            "file_pattern": "*.csv",
+            "target_replication": 3
+        },
+        {
+            "file_pattern": "*.bak",
+            "target_replication": 1
+        },
+        {
+            "file_pattern": "*.xml",
+            "target_replication": 2
+        },
+        {
+            "file_pattern": "*.mp4",
+            "target_replication": 1
+        },
+        {
+            "file_pattern": "*.zip",
+            "target_replication": 2
+        },
+        {
+            "file_pattern": "*.gz",
+            "target_replication": 1
+        }
+    ],
+    "default_replication": 3,
+    "max_replication": 5,
+    "min_replication": 1
+}
