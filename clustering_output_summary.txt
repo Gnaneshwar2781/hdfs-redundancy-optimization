@@ -1,0 +1,27 @@
+
+Loaded processing data from: working/hdfs_parsed_data.json
+Loaded recommendations data from: working/replication_optimization.json
+Starting HDFS optimization analysis...
+
+processing data...
+
+Applying hierarchical clustering with data-driven thresholds...
+Access frequency distribution analysis:
+Min: 0.0
+25%: 3.415
+Median: 5.95
+75%: 9.0825
+Max: 28.95
+
+Derived thresholds - Hot: >7.75, Warm: 3.43734
+Category distribution after threshold-based assignment:
+Warm: 169
+Hot: 166
+Cold: 165
+
+Applying K-means subclustering...
+Category Cold, clusters 2, silhouette score: 0.7545
+Category Cold, clusters 3, silhouette score: 0.2711
+Category Cold, clusters 4, silhouette score: 0.2818
+Best number of clusters for Cold: 2 (score: 0.7545)
+Category Warm, clusters 2, silhouette score: 0.2569

@@ -1,0 +1,9 @@
+=== Total Storage Impact ===
+Total Storage Before: 3182071.47 KB
+Total Storage After: 2557440.02 KB
+Net Change: -624631.45 KB (-19.63%)
+
+=== Replication Anomalies ===
+Total anomalies detected: 227
+Over-replicated files: 104
+Under-replicated files: 123
